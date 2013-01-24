@@ -1,0 +1,1087 @@
+[master][~/dev/journalclub/playground] ruby xreffer.rb /Users/jason/Downloads/bibtexmylibrary2010april.bib
+Reading bibliography /Users/jason/Downloads/bibtexmylibrary2010april.bib...
+Counting unidentified entries...
+Asking if doi exists msb4100073
+Asking if doi exists 10.1038/nature04647
+Asking if doi exists 10.1007/978-3-540-69371-0_9
+Asking if doi exists 10.1128/AEM.69.7.3858-3867.2003
+Asking if doi exists 10.1093/bioinformatics/17.8.754
+Asking if doi exists 10.1128/AEM.02000-07
+Asking if doi exists 10.1016/S0168-1656(02)00222-5
+Asking if doi exists 10.1007/BF02703760
+Asking if doi exists 10.1016-0012-821X(94)00232-N
+Asking if doi exists 10.1007/s00114-006-0162-6
+Asking if doi exists 10.1371%2Fjournal.pone.0000457
+Asking if doi exists 10.1007/s002489900019
+Asking if doi exists 10.1086/284325
+Asking if doi exists 10.1371/journal.ppat.0010005
+Asking if doi exists 10.1017/S0024282984000037
+Asking if doi exists 10.1111/j.1574-6968.1999.tb13656.x
+Asking if doi exists S0011-2240(06)00051-4
+Asking if doi exists 10.1016/0019-1035(90)90184-B
+Asking if doi exists 10.1126/science.1061967
+Asking if doi exists 10.1038/nbt1098-929
+Asking if doi exists 10.1073/pnas.0702117104
+Asking if doi exists 10.1049/iet-stb:20079020
+Asking if doi exists 10.1128/AEM.66.4.1489-1492.2000
+Asking if doi exists 10.1073/pnas.1632870100
+Asking if doi exists 10.1099/00207713-47-4-1145
+Asking if doi exists 10.1007/s00792-008-0151-0
+Asking if doi exists 10.1007/s11157-007-9126-3
+Asking if doi exists 10.1038/332687a0
+Asking if doi exists 10.1038/nmeth.1422
+Asking if doi exists 10.1128/JB.183.7.2298-2305.2001
+Asking if doi exists 10.1073/pnas.0504604102
+Asking if doi exists 10.1111/j.1574-6941.2007.00351.x
+Asking if doi exists 6450762
+Asking if doi exists 10.3732/ajb.0800258
+Asking if doi exists 10.1016/S0169-5347(03)00087-9
+Asking if doi exists 10.1016/j.bbabio.2008.12.002
+Asking if doi exists S0734-9750(07)00116-4
+Asking if doi exists 10.1016/j.tree.2004.11.010
+Asking if doi exists 10.1016/j.icarus.2004.07.029
+Asking if doi exists 10.1038/nature01725
+Asking if doi exists 10.1038/ng1535
+Asking if doi exists 10.1126/science.289.5487.2097
+Asking if doi exists 10.1016/j.mrfmmm.2004.11.016
+Asking if doi exists 10.1016/j.tim.2004.11.002
+Asking if doi exists 10.1099/ijs.0.03008-0
+Asking if doi exists 10.1111/j.1462-2920.2006.01153.x
+Asking if doi exists 10.1086/587525
+Asking if doi exists EMI1212
+Asking if doi exists 10.1126/science.1063584
+Asking if doi exists 10.1038/nrg1523
+Asking if doi exists 10.1128/AEM.70.1.550-557.2004
+Asking if doi exists 10.1016/j.cemconres.2005.03.005
+Asking if doi exists 10.1038/431414a
+Asking if doi exists 10.1007/BF00341474
+Asking if doi exists 10.1128/AEM.67.4.1902-1910.2001
+Asking if doi exists 10.1007/s00792-008-0196-0
+Asking if doi exists 10196780
+Asking if doi exists 10.1016/S0378-1097(03)00852-8
+Asking if doi exists 10.1007/s00300-007-0331-x
+Asking if doi exists 10.1099/00221287-111-1-1
+Asking if doi exists 10.1016/0273-1177(96)00007-5
+Asking if doi exists 10.1016/j.energy.2004.03.067
+Asking if doi exists 10.1006/cryo.2001.2357
+Asking if doi exists 10.1038/nmeth.1434
+Asking if doi exists 841R277626120882
+Asking if doi exists 10.1126/science.1170160
+Asking if doi exists 12596232
+Asking if doi exists 10.1186/1471-2105-9-239
+Asking if doi exists 10.1038/sj.embor.7400662
+Asking if doi exists 10.1038/nbt1413
+Asking if doi exists 10.1002/bies.200900180
+Asking if doi exists 10.1006/prep.1999.1040
+Asking if doi exists 10.1111/j.1462-2920.2007.01516.x
+Asking if doi exists 10.1023/A:1024929725022
+Asking if doi exists 10.1007/BF00018071
+Asking if doi exists VL - 95
+Asking if doi exists 10.1016/0169-5347(90)90067-N
+Asking if doi exists 10.1086/527502
+Asking if doi exists 13718526
+Asking if doi exists 10.1016/j.icarus.2004.04.004
+Asking if doi exists 10.1093/bioinformatics/bti191
+Asking if doi exists 10.1098/rstb.2006.1914
+Asking if doi exists nmeth1143
+Asking if doi exists 10.1093/nar/gkp915
+Asking if doi exists 10.1007/s00114-006-0162-6
+Asking if doi exists 10.1152/ajpregu.00157.2005
+Asking if doi exists 10.2138/rmg.2008.68.13
+Asking if doi exists 10.1099/ijs.0.001685-0
+Asking if doi exists 10.1007/BF00441762
+Asking if doi exists 11537832
+Asking if doi exists 12596232
+Asking if doi exists 10.1007/s10811-004-5502-3
+Asking if doi exists 15175753
+Asking if doi exists 10.1074/jbc.273.27.16860
+Asking if doi exists 9600836
+Asking if doi exists im2305002
+Asking if doi exists 10.1007/s11084-008-9135-4
+Asking if doi exists 10.1016/S0273-1177(01)00490-2
+Asking if doi exists 10.1038/nature02053
+Asking if doi exists 10.1007/BF02344305
+Asking if doi exists 10.1126/science.163.3871.1073
+Asking if doi exists 1144622
+Asking if doi exists 10.1242/jeb.02448
+Asking if doi exists M803023200
+Asking if doi exists 10.1029/2004GC000907
+Asking if doi exists 10.1128/MMBR.00015-07
+Asking if doi exists 10.1126/science.1059593
+Asking if doi exists 10.1016/j.jphotobiol.2007.11.009
+Asking if doi exists 14208486
+Asking if doi exists 10974126
+Asking if doi exists 10.1038/35059215
+Asking if doi exists S0378-1119(07)00247-8
+Asking if doi exists 106/2751/253
+Asking if doi exists 10.1126/science.1056341
+Asking if doi exists 10.1128/JB.00368-09
+Asking if doi exists 10.1080/09670269600651251
+Asking if doi exists VL - 95
+Asking if doi exists 10.1016/S0168-1656(02)00222-5
+Asking if doi exists 10.1016/S0378-1097(03)00852-8
+Asking if doi exists 10.1093/nar/gki025
+Asking if doi exists 10.1371%2Fjournal.pone.0000457
+Asking if doi exists 10.1016/j.asr.2007.06.004
+Asking if doi exists 10.1371/journal.pone.0000457
+Asking if doi exists 10.1007/PL00006517
+Asking if doi exists 10.1038/nature08068
+Asking if doi exists 10.1038/nbt1209-1071
+Asking if doi exists 10.1016/0014-5793(93)81499-P
+Asking if doi exists 10.1007/BF02705244
+Asking if doi exists 12662179
+Asking if doi exists 10.1007/s00792-008-0176-4
+Asking if doi exists 10.1111/j.1742-4658.2007.05641.x
+Asking if doi exists EMI1301
+Asking if doi exists 10.1128/AEM.66.10.4222-4229.2000
+Asking if doi exists 0709128105
+Asking if doi exists 10.1073/pnas.0503495102
+Asking if doi exists 10.1016/S1369-5266(02)00254-6
+Asking if doi exists 10.1126/science.193.4259.1247
+Asking if doi exists 10.1111/j.1574-6941.2007.00345.x
+Asking if doi exists 10.1038/nbt1209-1091
+Asking if doi exists 8707053
+Asking if doi exists 10.1016/j.cub.2006.11.020
+Asking if doi exists 10.1111/j.1469-8137.1996.tb01925.x
+Asking if doi exists 10.1016/S0022-2836(02)00400-X
+Asking if doi exists 10.1006/icar.2002.6857
+Asking if doi exists 10.1128/JB.00502-09
+Asking if doi exists 10573692
+Asking if doi exists 10.1007/BF01283581
+Asking if doi exists 10.1016/j.cryobiol.2006.03.002
+Asking if doi exists 17590925
+Asking if doi exists 10.1093/protein/gzj010
+Asking if doi exists 10.1002/0471250953.bi1003s00
+Asking if doi exists 10.1016/j.icarus.2004.08.005
+Asking if doi exists 10.1126/science.314.5806.1707
+Asking if doi exists 10.1038/nature07100
+Asking if doi exists 312/5773/535
+Asking if doi exists 10.1073/pnas.061021398
+Asking if doi exists 10.1016/j.tree.2008.02.004
+Asking if doi exists 11536924
+Asking if doi exists 1754-1611-2-5
+Asking if doi exists 10.1038/nbt1244
+Asking if doi exists 10.1126/science.1135841
+Asking if doi exists 10.1111/j.0022-3646.1997.00001.x
+Asking if doi exists 10.1086/381872
+Asking if doi exists 10.1093/sysbio/syp015
+Asking if doi exists 10.1016/0019-1035(90)90184-B
+Asking if doi exists 10.1016/j.femsre.2003.07.003
+Asking if doi exists 10.1017/S1473550405002466
+Asking if doi exists 10.1073/pnas.0406744102
+Asking if doi exists 10.1128/AEM.70.6.3321-3328.2004
+Asking if doi exists 10.1016/S0032-0633(00)00006-4
+Asking if doi exists 10.1016/S0273-1177(99)80091-X
+Asking if doi exists 10.1146/annurev.micro.61.080706.093302
+Asking if doi exists 10.1126/science.1127376
+Asking if doi exists 10.1073/pnas.0402940101
+Asking if doi exists 10.1126/science.1063734
+Asking if doi exists 10.1016/0273-1177(95)00880-N
+Asking if doi exists 10.1128/AEM.67.4.1751-1765.2001
+Asking if doi exists 10.1007/BF00443945
+Asking if doi exists 10.1128/JB.188.9.3199-3207.2006
+Asking if doi exists 10.1038/nbt.1586
+Asking if doi exists 10.1126/science.289.5487.2065
+Asking if doi exists 10.1086/431314
+Asking if doi exists 10.1038/nrmicro1264
+Asking if doi exists 10.1016/j.plasmid.2009.01.005
+Asking if doi exists 10.1016/j.cub.2007.03.032
+Asking if doi exists 10.2307/2463060
+Asking if doi exists 10.1007/BF02218466
+Asking if doi exists 10.1126/science.1165665
+Asking if doi exists 10.1126/science.281.5382.1484
+Asking if doi exists 10.1007/BF00238287
+Asking if doi exists 10.1086/503185
+Asking if doi exists 10.1126/science.1125841
+Asking if doi exists 10.1089/ast.2006.6.677
+Asking if doi exists 10.1073/pnas.0711165105
+Asking if doi exists 10.1016/j.sedgeo.2005.12.013
+Asking if doi exists 17590925
+Asking if doi exists 10.1126/science.1123539
+Asking if doi exists 1125150
+Asking if doi exists 10.1186/1471-2164-6-122
+Asking if doi exists 10.1074/jbc.M610174200
+Asking if doi exists 10.1007/s00792-006-0506-3
+Asking if doi exists 10.1186/1471-2105-4-41
+Asking if doi exists 10.1126/science.1151639
+Asking if doi exists 10.1007/s00792-002-0300-9
+Asking if doi exists 10.1093/pcp/pci132
+Asking if doi exists 10.1126/science.289.5487.2085
+Asking if doi exists 10.1371/journal.pgen.0020214
+Asking if doi exists 10.1016/S0300-9629(97)87354-9
+Asking if doi exists 0406911101
+Asking if doi exists 10.1126/science.1134390
+Asking if doi exists 10.1073/pnas.0712205105
+Asking if doi exists 10.1093/nar/gki487
+Asking if doi exists 16229066
+Asking if doi exists 10.1080/09670269910001736392
+Asking if doi exists 10.1534/genetics.106.063305
+Asking if doi exists 10.1091/mbc.E04-03-0167
+Asking if doi exists 8107083
+Asking if doi exists 10.1126/science.1103185
+Asking if doi exists 10.1111/j.1365-2427.2004.01317.x
+Asking if doi exists 14994177
+Asking if doi exists 10.1126/science.1167222
+Asking if doi exists 9697189
+Asking if doi exists nmeth1143
+Asking if doi exists nature03938
+Asking if doi exists 10.2307/2408444
+Asking if doi exists 10.1038/nature08753
+Asking if doi exists 10.1038/nbt.1614
+Asking if doi exists 10.1099/ijs.0.02360-0
+Asking if doi exists 10.1099/00207713-44-4-846
+Asking if doi exists 10.1111/j.1751-8369.2006.tb00149.x
+Asking if doi exists 10.1186/1754-1611-3-4
+Asking if doi exists 10.1016/S0009-2541(00)00214-X
+Asking if doi exists 10.1385/ABAB:91-93:1-9:185
+Asking if doi exists http://www.economist.com/business-finance/displaystory.cfm?story_id=7854314
+Asking if doi exists 10.1007/s10126-006-6103-8
+Asking if doi exists 7423
+Asking if doi exists 10.1038/nbt1209-1074
+Asking if doi exists 10.1073/pnas.0605709103
+Asking if doi exists 10.1089/ast.2006.6.592
+Asking if doi exists 14577883
+Asking if doi exists 12610294
+Asking if doi exists 10.1080/00071619100650281
+Asking if doi exists 10.1038/nature07393
+Asking if doi exists 10.1093/nar/gkl986
+Asking if doi exists 10.1016/j.cell.2009.01.018
+Asking if doi exists 10.1093/nar/gkh881
+Asking if doi exists 270744
+Asking if doi exists 10.1038/373677a0
+Asking if doi exists 10.1007/s10142-006-0027-2
+Asking if doi exists 10.1126/science.215.4536.1045
+Asking if doi exists 10.1128/AEM.68.3.1180-1191.2002
+Asking if doi exists 10.1186/1471-2164-9-297
+Asking if doi exists 10.1006/icar.2000.6482
+Asking if doi exists 10.1016/j.mimet.2009.10.004
+Asking if doi exists 10.2307/2409916
+Asking if doi exists 10.1242/jeb.021493
+Asking if doi exists 10.1128/MMBR.70.1.222-252.2006
+Asking if doi exists 10.1128/AEM.00358-06
+Asking if doi exists 10.1089/ast.2006.0046
+Asking if doi exists 10.1111/j.1529-8817.2008.00623.x
+Asking if doi exists 10.1049/iet-stb:20070001
+Asking if doi exists 10.1016-S0273-1177(01)00490-2
+Asking if doi exists S0167-7799(08)00182-0
+Asking if doi exists 10.1016/0019-1035(73)90110-3
+Asking if doi exists 10.1016/0273-1177(96)00003-8
+Asking if doi exists 10.1016/1055-7903(92)90030-K
+Asking if doi exists 17590925
+Asking if doi exists 10.1111/j.1751-1097.1992.tb09596.x
+Asking if doi exists 10.1099/00221287-111-1-63
+Asking if doi exists 10.1093/bioinformatics/btm404
+Asking if doi exists 10.1073/pnas.122218499
+Asking if doi exists 10.1093/pcp/pci132
+Asking if doi exists 1471-2164-9-210
+Asking if doi exists 10.1038/nature08656
+Asking if doi exists doi:10.1089/153871303769201851.
+Asking if doi exists 10.1098/rstb.2006.1919
+Asking if doi exists 10.2138/rmg.2008.68.12
+Asking if doi exists 10.1038/35018671
+Asking if doi exists 10.1017/S1473550403001344
+Asking if doi exists 10.1126/science.1063391
+Asking if doi exists 10.1016/j.cell.2009.03.008
+Asking if doi exists 12451174
+Asking if doi exists 10.1126/science.176.4032.242
+Asking if doi exists 10.1371/journal.pbio.0040230
+Asking if doi exists ng1476
+Asking if doi exists 10.1007/s00792-007-0093-y
+Asking if doi exists 10.1099/00221287-111-1-73
+Asking if doi exists 12207688
+Asking if doi exists 12385718
+Asking if doi exists 10.1023/A:1024929725022
+Asking if doi exists 10.1186/1471-2148-7-73
+Asking if doi exists 10.1049/iet-stb:20070001
+Asking if doi exists 10.1371/journal.pbio.0040201
+Asking if doi exists 10.1038/35012693
+Asking if doi exists 10.1126/science.1075558
+Asking if doi exists 10.1016/j.icarus.2004.04.004
+Asking if doi exists M803023200
+Asking if doi exists 10.1007/s00248-006-9055-7
+Asking if doi exists 10.1038/nrm2698
+Asking if doi exists 10.1016/S0273-1177(99)80088-X
+Asking if doi exists 10.1002/bies.20585
+Asking if doi exists 10.1089/ast.2006.0046
+Asking if doi exists M803023200
+Asking if doi exists 10.1111/j.1529-8817.2007.00341.x
+Asking if doi exists 10.1128/AEM.72.1.544-550.2006
+Asking if doi exists 10.1128/MMBR.00015-07
+Asking if doi exists 10.1111/j.0022-3646.1981.00353.x
+Asking if doi exists Y1W7N12127355678
+Asking if doi exists 10.1007/BF00443193
+Asking if doi exists 10.1016/j.tree.2008.02.004
+Asking if doi exists 2961560
+Asking if doi exists 10.1016/S0925-8574(98)00087-1
+Asking if doi exists 10.1371/journal.pbio.0040185
+Asking if doi exists 10.1128/AEM.71.9.5225-5235.2005
+Asking if doi exists 1151721
+Asking if doi exists 10.1016/j.energy.2004.03.067
+Asking if doi exists 10.1016/S0032-0633(97)00132-3
+Asking if doi exists 10.1016/j.bbrc.2007.12.176
+Asking if doi exists 14649627
+Asking if doi exists 10.1016/j.tree.2008.01.008
+Asking if doi exists 10.1038/nature08872
+Asking if doi exists 10.1007/s12052-008-0035-x
+Asking if doi exists 10.1073/pnas.0504766102
+Asking if doi exists 10.1146/annurev.biochem.75.103004.142723
+Asking if doi exists 12856880
+Asking if doi exists 10.1016/S0981-9428(00)00766-X
+Asking if doi exists 10.1073/pnas.0807989106
+Asking if doi exists 10.1111/j.1525-1497.2004.30329.x
+Asking if doi exists 9191818
+Asking if doi exists 10.1242/jeb.021493
+Asking if doi exists nature04640
+Asking if doi exists 9343349
+Asking if doi exists 10.1534/genetics.104.029249
+Asking if doi exists nrmicro1913
+Asking if doi exists 10.1093/emboj/20.7.1681
+Asking if doi exists 10.1038/nbt1103-1266b
+Asking if doi exists 10.2307/3450066
+Asking if doi exists 10.1016/j.cbpa.2007.01.319
+Asking if doi exists 10.1002/bit.21833
+Asking if doi exists 10.1038/nrg2484
+653 entries, 156 unidentified
+--batch: 1 containing 10
+got 0 results
+--batch: 2 containing 10
+got 6 results
+Found 2 new identifiers for 'An overview of multiple sequence alignment.' by Simossis, V and Kleinjung, J and Heringa, J:
+["ISBN:0471250953", "DOI:10.1002/0471250953.bi0307s03"]
+@article{Simossis:2003p3951,
+  annote = {Notes Outline of paper:  Global or local methods:  Global:  Local: e.g. most smilar regions are selected and aligned.  E.g. BLAST, Gibbs sampler, MEME, Dialign2.  Local aligners perform well where there is a clear block of ungapped alignments shared by all sequences.   Local performs poorly when moderate gaps are required.  Local performs poorly over general test cases when compared to global.   NEXT: continue here. Performing MSA 1) Selecting sequences 2) Choice of scoring function 3) Application and optimization of this scoring function in compiling the alignment. The scoring function Applying the scoring function MSA methodology Progressive alignment strategies P5) Trees Profiles Positional conservation Simultaneous alignment Alignment Iteration Paralellization of MSA MSA Methods: Biopat MultAlin Multal ClustalW, ClustalX Scoring MSA’s  p20  Evaluating alignment methods Optimizing alignment scores Conclusion.  p21. Key literature:  Felsenstein 1981: Introduces maximum likelihood.  The method attempts to find a tree that maximizes the probability that the observed data will fit the tree under a given evolutionary model.   Needleman & Wunsch, 1970.   Introduces global dynamic programming algorithm to the biology community. Smith Waterman algorithm, 1980:  e.g BLAST. },
+  author = {Simossis, V and Kleinjung, J and Heringa, J},
+  date-added = {2010-02-24 08:11:44 -0800},
+  date-modified = {2010-02-28 21:34:48 -0800},
+  journal = {Current protocols in bioinformatics/editoral board, Andreas D. Baxevanis...[et al.]},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2003/Simossis/Current%20protocols%20in%20bioinformaticseditoral%20board%20Andreas%20D.%20Baxevanis...%5Bet%20al.%5D%202003%20Simossis.pdf},
+  pmid = {15410065230343620055related:18U6VK6M29UJ},
+  rating = {0},
+  read = {Yes},
+  title = {An overview of multiple sequence alignment.},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3951},
+  year = {2003},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAsoAAAAAAsoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAIZ/zh9DdXJyZW50IHByb3RvY29scyBpbiM4OTM2NDgucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiTZIx6qPiQAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAIU2ltb3NzaXMAEAAIAADGOs4EAAAAEQAIAADHqwAJAAAAAQAYAIZ/zgAahScAGi9gAAqa/gAKmucAAIXtAAIAXU1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDM6U2ltb3NzaXM6Q3VycmVudCBwcm90b2NvbHMgaW4jODkzNjQ4LnBkZgAADgDIAGMAQwB1AHIAcgBlAG4AdAAgAHAAcgBvAHQAbwBjAG8AbABzACAAaQBuACAAYgBpAG8AaQBuAGYAbwByAG0AYQB0AGkAYwBzAGUAZABpAHQAbwByAGEAbAAgAGIAbwBhAHIAZAAgAEEAbgBkAHIAZQBhAHMAIABEAC4AIABCAGEAeABlAHYAYQBuAGkAcwAuAC4ALgBbAGUAdAAgAGEAbAAuAF0AIAAyADAAMAAzACAAUwBpAG0AbwBzAHMAaQBzAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgCUVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDAzL1NpbW9zc2lzL0N1cnJlbnQgcHJvdG9jb2xzIGluIGJpb2luZm9ybWF0aWNzZWRpdG9yYWwgYm9hcmQgQW5kcmVhcyBELiBCYXhldmFuaXMuLi5bZXQgYWwuXSAyMDAzIFNpbW9zc2lzLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxCILi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDAzL1NpbW9zc2lzL0N1cnJlbnQgcHJvdG9jb2xzIGluIGJpb2luZm9ybWF0aWNzZWRpdG9yYWwgYm9hcmQgQW5kcmVhcyBELiBCYXhldmFuaXMuLi5bZXQgYWwuXSAyMDAzIFNpbW9zc2lzLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoANuA3ADdQN+A4kDjQObA6IDqwQ2BDsEPgRLBFAAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAEYg==}
+}
+Found 1 new identifiers for 'Rising from the Ashes: DNA Repair in Deinococcus radiodurans' by Cox, MM and Keck, JL and Battista, JR:
+["DOI:10.1371/journal.pgen.1000815"]
+@article{Cox:2010p3964,
+  author = {Cox, MM and Keck, JL and Battista, JR},
+  date-added = {2010-03-25 11:17:23 -0700},
+  date-modified = {2010-03-25 11:19:55 -0700},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2010/Cox/2010%20Cox.pdf},
+  pmid = {related:voU96sN0NykJ},
+  rating = {0},
+  title = {Rising from the Ashes: DNA Repair in Deinococcus radiodurans},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3964},
+  year = {2010},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAaQAAAAAAaQAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJzlEAwyMDEwIENveC5wZGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnN4Yx9D1vAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAADQ294AAAQAAgAAMY6zgQAAAARAAgAAMfRWCwAAAABABgAnOUQAFNf+QAaL2AACpr+AAqa5wAAhe0AAgBFTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAxMDpDb3g6MjAxMCBDb3gucGRmAAAOABoADAAyADAAMQAwACAAQwBvAHgALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADhVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMTAvQ294LzIwMTAgQ294LnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxAsLi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDEwL0NveC8yMDEwIENveC5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACSAJKAk8CWAJjAmcCdQJ8AoUCtAK5ArwCyQLOAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAuA=}
+}
+--batch: 3 containing 10
+got 10 results
+Found 1 new identifiers for 'Description of four novel psychrophilic, ionizing radiation-sensitive Deinococcus species from alpine environments' by Callegan, RP and Nobre, MF and McTernan, PM and Battista, JR and Navarro-Gonzalez, R and McKay, CP and Costa, MS Da and Rainey, FA:
+["DOI:10.1099/ijs.0.65405-0"]
+@article{Callegan:2008p3969,
+  author = {Callegan, RP and Nobre, MF and McTernan, PM and Battista, JR and Navarro-Gonzalez, R and McKay, CP and Costa, MS Da and Rainey, FA},
+  date-added = {2010-03-26 08:54:39 -0700},
+  date-modified = {2010-03-26 08:54:46 -0700},
+  journal = {International journal of systematic and evolutionary microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Callegan/International%20journal%20of%20systematic%20and%20evolutionary%20microbiology%202008%20Callegan.pdf},
+  number = {5},
+  pages = {1252},
+  pmid = {18133667932333244457related:KYCdfei6p_sJ},
+  rating = {0},
+  read = {Yes},
+  title = {Description of four novel psychrophilic, ionizing radiation-sensitive Deinococcus species from alpine environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3969},
+  volume = {58},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RApoAAAAAApoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJ2TRx9JbnRlcm5hdGlvbmFsIGpvdXJuYSM5RDkzMzQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnZM0x9ImxwAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAIQ2FsbGVnYW4AEAAIAADGOs4EAAAAEQAIAADH0ok3AAAAAQAYAJ2TRwAaXMwAGi9gAAqa/gAKmucAAIXtAAIAXU1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDg6Q2FsbGVnYW46SW50ZXJuYXRpb25hbCBqb3VybmEjOUQ5MzM0LnBkZgAADgCoAFMASQBuAHQAZQByAG4AYQB0AGkAbwBuAGEAbAAgAGoAbwB1AHIAbgBhAGwAIABvAGYAIABzAHkAcwB0AGUAbQBhAHQAaQBjACAAYQBuAGQAIABlAHYAbwBsAHUAdABpAG8AbgBhAHIAeQAgAG0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMgAwADAAOAAgAEMAYQBsAGwAZQBnAGEAbgAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAhFVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwOC9DYWxsZWdhbi9JbnRlcm5hdGlvbmFsIGpvdXJuYWwgb2Ygc3lzdGVtYXRpYyBhbmQgZXZvbHV0aW9uYXJ5IG1pY3JvYmlvbG9neSAyMDA4IENhbGxlZ2FuLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxB4Li4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA4L0NhbGxlZ2FuL0ludGVybmF0aW9uYWwgam91cm5hbCBvZiBzeXN0ZW1hdGljIGFuZCBldm9sdXRpb25hcnkgbWljcm9iaW9sb2d5IDIwMDggQ2FsbGVnYW4ucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAz4DQANFA04DWQNdA2sDcgN7A/YD+wP+BAsEEAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAQi}
+}
+Found 1 new identifiers for 'A simplified protocol for preparing DNA from filamentous cyanobacteria' by Wu, X and Zarka, A and Boussiba, S:
+["DOI:10.1007/BF02825067"]
+@article{Wu:2000p3694,
+  author = {Wu, X and Zarka, A and Boussiba, S},
+  date-added = {2010-01-26 19:33:52 -0800},
+  date-modified = {2010-01-26 19:35:03 -0800},
+  journal = {Plant Molecular Biology Reporter},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2000/Wu/Plant%20Molecular%20Biology%20Reporter%202000%20Wu.pdf},
+  number = {4},
+  pages = {385–392},
+  pmid = {17517058759599205693related:PS2O6yEYGfMJ},
+  rating = {0},
+  title = {A simplified protocol for preparing DNA from filamentous cyanobacteria},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3694},
+  volume = {18},
+  year = {2000},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAhQAAAAAAhQAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAG3C2h9QbGFudCBNb2xlY3VsYXIgQmlvbCM2RDUxOEMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbVGMx4PRGAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAACV3UAEAAIAADGOs4EAAAAEQAIAADHhEGYAAAAAQAYAG3C2gAd5KsAGi9gAAqa/gAKmucAAIXtAAIAV01hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDA6V3U6UGxhbnQgTW9sZWN1bGFyIEJpb2wjNkQ1MThDLnBkZgAADgBaACwAUABsAGEAbgB0ACAATQBvAGwAZQBjAHUAbABhAHIAIABCAGkAbwBsAG8AZwB5ACAAUgBlAHAAbwByAHQAZQByACAAMgAwADAAMAAgAFcAdQAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAV1VzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwMC9XdS9QbGFudCBNb2xlY3VsYXIgQmlvbG9neSBSZXBvcnRlciAyMDAwIFd1LnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QSy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwMC9XdS9QbGFudCBNb2xlY3VsYXIgQmlvbG9neSBSZXBvcnRlciAyMDAwIFd1LnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAK4AroCvwLIAtMC1wLlAuwC9QNDA0gDSwNYA10AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADbw==}
+}
+Found 1 new identifiers for 'The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments' by Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A:
+["DOI:10.1089/ast.2007.0124"]
+@misc{steven_m._jepsen_potential_2007-1,
+  annote = {We developed a numerical model to assess the lithoautotrophic habitability of Mars based on metabolic energy, nutrients, water availability, and temperature. Available metabolic energy and nutrient sources were based on a laboratory-produced Mars-analog inorganic chemistry. For this specific reference chemistry, the most efficient lithoautotrophic microorganisms would use Fe2+ as a primary metabolic electron donor and NO3− or gaseous O2 as a terminal electron acceptor. In a closed model system, biomass production was limited by the electron donor Fe2+ and metabolically required P, and typically amounted to ∼800 pg of dry biomass/ml (∼8,500 cells/ml). Continued growth requires propagation of microbes to new fecund environments, delivery of fresh pore fluid, or continued reaction with the host material. Within the shallow cryosphere[–]where oxygen can be accessed by microbes and microbes can be accessed by exploration[–]lithoautotrophs can function within as little as three monolayers of interfacial water...},
+  author = {Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A},
+  date-added = {2009-10-11 23:42:53 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Miscellaneous},
+  keywords = {Free energy, Nitrogen, Iron, Interfacial water, Thin film, Phosphorus, Mars, Life},
+  rating = {0},
+  title = {The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p914},
+  year = {2007}
+}
+Found 2 new identifiers for 'ARB: a software environment for sequence data' by Ludwig, W and Strunk, O and Westram, R and Richter, L and Meier, H:
+["ISBN:9781118010518", "DOI:10.1002/9781118010518"]
+@article{Ludwig:2004p3084,
+  author = {Ludwig, W and Strunk, O and Westram, R and Richter, L and Meier, H},
+  date-added = {2009-12-11 22:53:14 -0800},
+  date-modified = {2009-12-11 22:54:00 -0800},
+  journal = {Nucleic Acids Research},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2004/Ludwig/Nucleic%20Acids%20Research%202004%20Ludwig.pdf},
+  number = {4},
+  pages = {1363},
+  pmid = {10695569703393136292related:pI4tSfpLbpQJ},
+  rating = {0},
+  title = {ARB: a software environment for sequence data},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3084},
+  volume = {32},
+  year = {2004},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAg4AAAAAAg4AAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAADHMmR9OdWNsZWljIEFjaWRzIFJlc2VhciMzMUNDMjcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMcwnx0h87wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAGTHVkd2lnABAACAAAxjrOBAAAABEACAAAx0jtbwAAAAEAGAAxzJkAGlzRABovYAAKmv4ACprnAACF7QACAFtNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA0Okx1ZHdpZzpOdWNsZWljIEFjaWRzIFJlc2VhciMzMUNDMjcucGRmAAAOAE4AJgBOAHUAYwBsAGUAaQBjACAAQQBjAGkAZABzACAAUgBlAHMAZQBhAHIAYwBoACAAMgAwADAANAAgAEwAdQBkAHcAaQBnAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBVVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA0L0x1ZHdpZy9OdWNsZWljIEFjaWRzIFJlc2VhcmNoIDIwMDQgTHVkd2lnLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QSS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNC9MdWR3aWcvTnVjbGVpYyBBY2lkcyBSZXNlYXJjaCAyMDA0IEx1ZHdpZy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACsgK0ArkCwgLNAtEC3wLmAu8DOwNAA0MDUANVAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA2c=}
+}
+Found 1 new identifiers for 'STUDIES OF MARINE PLANKTONIC DIATOMS: I. CYCLOTELLA NANA HUSTEDT, AND DETONULA CONFERVACEA (CLEVE) GRAN.' by Guillard, RRL and Ryther, JH:
+["DOI:10.1139/m62-029"]
+@article{Guillard:1962p3935,
+  author = {Guillard, RRL and Ryther, JH},
+  date-added = {2010-02-08 17:46:27 -0800},
+  date-modified = {2010-02-08 17:47:46 -0800},
+  journal = {Canadian Journal of Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/1962/Guillard/Canadian%20Journal%20of%20Microbiology%201962%20Guillard.pdf},
+  number = {2},
+  pages = {229–239},
+  pmid = {3787905299161609001related:KfNY58xXkTQJ},
+  rating = {0},
+  title = {STUDIES OF MARINE PLANKTONIC DIATOMS: I. CYCLOTELLA NANA HUSTEDT, AND DETONULA CONFERVACEA (CLEVE) GRAN.},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3935},
+  volume = {8},
+  year = {1962},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAjgAAAAAAjgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAHudIh9DYW5hZGlhbiBKb3VybmFsIG9mICM3OUQ2NjQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAedZkx5IIQQAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAIR3VpbGxhcmQAEAAIAADGOs4EAAAAEQAIAADHknjBAAAAAQAYAHudIgB7nSEAGi9gAAqa/gAKmucAAIXtAAIAXU1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjE5NjI6R3VpbGxhcmQ6Q2FuYWRpYW4gSm91cm5hbCBvZiAjNzlENjY0LnBkZgAADgBmADIAQwBhAG4AYQBkAGkAYQBuACAASgBvAHUAcgBuAGEAbAAgAG8AZgAgAE0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMQA5ADYAMgAgAEcAdQBpAGwAbABhAHIAZAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAY1VzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMTk2Mi9HdWlsbGFyZC9DYW5hZGlhbiBKb3VybmFsIG9mIE1pY3JvYmlvbG9neSAxOTYyIEd1aWxsYXJkLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QVy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMTk2Mi9HdWlsbGFyZC9DYW5hZGlhbiBKb3VybmFsIG9mIE1pY3JvYmlvbG9neSAxOTYyIEd1aWxsYXJkLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoALcAt4C4wLsAvcC+wMJAxADGQNzA3gDewOIA40AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADnw==}
+}
+Found 1 new identifiers for 'Microbial Rock Inhabitants Survive Hypervelocity Impacts on Mars-Like Host Planets: First Phase of Lithopanspermia Experimentally Tested' by Horneck, Gerda and Stoffler, Dieter and Ott, Sieglinde and Hornemann, Ulrich and Cockell, Charles S and Moeller, Ralf and Meyer, Cornelia and de Vera, Jean-Pierre and Fritz, Jorg and Schade, Sara and Artemieva, Natalia A:
+["DOI:10.1089/ast.2007.0134"]
+@misc{gerda_horneck_microbial_2008,
+  annote = {ABSTRACT The scenario of lithopanspermia describes the viable transport of microorganisms via meteorites. To test the first step of lithopanspermia, i.e., the impact ejection from a planet, systematic shock recovery experiments within a pressure range observed in martian meteorites (5-50 GPa) were performed with dry layers of microorganisms (spores of Bacillus subtilis, cells of the endolithic cyanobacterium Chroococcidiopsis, and thalli and ascocarps of the lichen Xanthoria elegans) sandwiched between gabbro discs (martian analogue rock). Actual shock pressures were determined by refractive index measurements and Raman spectroscopy, and shock temperature profiles were calculated. Pressure-effect curves were constructed for survival of B. subtilis spores and Chroococcidiopsis cells from the number of colony-forming units, and for vitality of the photobiont and mycobiont of Xanthoria elegans from confocal laser scanning microscopy after live/dead staining (FUN-I). A vital launch window for the transport of...},
+  author = {Horneck, Gerda and Stoffler, Dieter and Ott, Sieglinde and Hornemann, Ulrich and Cockell, Charles S and Moeller, Ralf and Meyer, Cornelia and de Vera, Jean-Pierre and Fritz, Jorg and Schade, Sara and Artemieva, Natalia A},
+  date-added = {2009-10-11 23:42:36 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Miscellaneous},
+  keywords = {Shock pressure, Microbial survival, Lithopanspermia, Interplanetary transfer of life, Impact, Ejecta},
+  rating = {0},
+  title = {Microbial Rock Inhabitants Survive Hypervelocity Impacts on Mars-Like Host Planets: First Phase of Lithopanspermia Experimentally Tested},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1002},
+  year = {2008}
+}
+--batch: 4 containing 10
+got 8 results
+Found 1 new identifiers for 'Genome size of cyanobacteria' by Herdman, Michael and Janvier, Monique and Rippka, Rosmarie and Stanier, Roger Y:
+["DOI:10.1099/00221287-111-1-73"]
+@article{herdman_genome_1979,
+  annote = {6.6 Mb average for all the Chroococcidiopsis that they mention, converted from Daltons to Mb.},
+  author = {Herdman, Michael and Janvier, Monique and Rippka, Rosmarie and Stanier, Roger Y},
+  date-added = {2009-10-11 23:42:34 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Journal of General Microbiology},
+  pages = {73–85},
+  rating = {0},
+  title = {Genome size of cyanobacteria},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p816},
+  volume = {111},
+  year = {1979}
+}
+Found 2 new identifiers for 'DNA Repair And Mutagenesis' by Friedberg, Errol C and Walker, Graham C and Siede, Wolfram and Wood, Richard D and Schultz, Roger A and Ellenberger, Tom:
+["ISBN:978-1-4613-6266-1", "DOI:10.1007/978-1-4615-2918-7"]
+@book{friedberg_dna_2005,
+  author = {Friedberg, Errol C and Walker, Graham C and Siede, Wolfram and Wood, Richard D and Schultz, Roger A and Ellenberger, Tom},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  rating = {0},
+  title = {DNA Repair And Mutagenesis},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1258},
+  year = {2005}
+}
+Found 1 new identifiers for 'Physical Chemistry.' by Atkins, Peter and de Paula, Julio:
+["DOI:10.1016/0022-2860(74)80059-1"]
+@book{atkins_physical_2001,
+  author = {Atkins, Peter and de Paula, Julio},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  pages = {1072},
+  rating = {0},
+  title = {Physical Chemistry.},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p830},
+  year = {2001}
+}
+--batch: 5 containing 10
+got 5 results
+Found 1 new identifiers for 'Multilocus sequence typing (MLST) reveals high genetic diversity and clonal population structure of the toxic cyanobacterium Microcystis aeruginosa' by Tanabe, Y and Kasai, F and Watanabe, MM:
+["DOI:10.1099/mic.0.2007/010645-0"]
+@article{Tanabe:2007p3960,
+  author = {Tanabe, Y and Kasai, F and Watanabe, MM},
+  date-added = {2010-03-16 20:23:27 -0700},
+  date-modified = {2010-03-16 20:23:36 -0700},
+  journal = {Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2007/Tanabe/Microbiology%202007%20Tanabe.pdf},
+  number = {11},
+  pages = {3695},
+  pmid = {6660129857472755815related:Z_iiiNGIbVwJ},
+  rating = {0},
+  title = {Multilocus sequence typing (MLST) reveals high genetic diversity and clonal population structure of the toxic cyanobacterium Microcystis aeruginosa},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3960},
+  volume = {153},
+  year = {2007},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAewAAAAAAewAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJUp/RxNaWNyb2Jpb2xvZ3kgMjAwNyBUYW5hYmUucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGT+RxurwqwAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAGVGFuYWJlABAACAAAxjrOBAAAABEACAAAxutTGwAAAAEAGACVKf0AGkG8ABovYAAKmv4ACprnAACF7QACAFhNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA3OlRhbmFiZTpNaWNyb2Jpb2xvZ3kgMjAwNyBUYW5hYmUucGRmAA4AOgAcAE0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMgAwADAANwAgAFQAYQBuAGEAYgBlAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBLVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA3L1RhbmFiZS9NaWNyb2Jpb2xvZ3kgMjAwNyBUYW5hYmUucGRmAAATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxA/Li4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA3L1RhbmFiZS9NaWNyb2Jpb2xvZ3kgMjAwNyBUYW5hYmUucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgApACkgKXAqACqwKvAr0CxALNAw8DFAMXAyQDKQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAM7}
+}
+--batch: 6 containing 10
+got 9 results
+Found 1 new identifiers for 'The art and design of genetic screens: Escherichia coli' by Shuman, Howard A and Silhavy, Thomas J:
+["DOI:10.1038/nrg1087"]
+@misc{howard_a._shuman_art_2003,
+  annote = {How to screen for your phenotype of choice - E.coli},
+  author = {Shuman, Howard A and Silhavy, Thomas J},
+  date-added = {2009-10-11 23:42:34 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Miscellaneous},
+  rating = {0},
+  title = {The art and design of genetic screens: Escherichia coli},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1104},
+  year = {2003}
+}
+Found 1 new identifiers for 'Model selection in phylogenetics' by Sullivan, J and Joyce, P:
+["DOI:10.1146/annurev.ecolsys.36.102003.152633"]
+@article{Sullivan:2005p3943,
+  author = {Sullivan, J and Joyce, P},
+  date-added = {2010-02-20 22:08:00 -0800},
+  date-modified = {2010-02-20 22:08:20 -0800},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2005/Sullivan/2005%20Sullivan.pdf},
+  pmid = {8836613053485783483related:u5mZ9sD0oXoJ},
+  rating = {0},
+  read = {Yes},
+  title = {Model selection in phylogenetics},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3943},
+  year = {2005},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAcYAAAAAAcYAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAINesBEyMDA1IFN1bGxpdmFuLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg22wx6YNqAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAIU3VsbGl2YW4AEAAIAADGOs4EAAAAEQAIAADHpn4oAAAAAQAYAINesAAaQeEAGi9gAAqa/gAKmucAAIXtAAIAT01hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDU6U3VsbGl2YW46MjAwNSBTdWxsaXZhbi5wZGYAAA4AJAARADIAMAAwADUAIABTAHUAbABsAGkAdgBhAG4ALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAEJVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDUvU3VsbGl2YW4vMjAwNSBTdWxsaXZhbi5wZGYAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QNi4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNS9TdWxsaXZhbi8yMDA1IFN1bGxpdmFuLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAJqAmwCcQJ6AoUCiQKXAp4CpwLgAuUC6AL1AvoAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADDA==}
+}
+Found 1 new identifiers for 'Broad phylogenomic sampling improves resolution of the animal tree of life' by Dunn, CW and Hejnol, A and Matus, DQ and Pang, K and Browne, WE and Smith, SA and Seaver, E and Rouse, GW and Obst, M and Edgecombe, GD:
+["DOI:10.1038/nature06614"]
+@article{Dunn:2008p3077,
+  annote = {Notes on Casey’s paper: He did a ML tree in RaxML and a Bayesian analysis tree in PhyloBayes and MrBayes. Figure 1: Phylogram of 77-taxon RaxML (ML) analyses under the WAG model. The figured topology and branch lengths are for the sampled tree with the highest likelihood (1,000 searches, log likelihood = -796,399.2).  (So they just show a single tree with the highest likelihood score that came from the 1000 trees they found) Support values are derived from 1000 bootstrap replicates. Leaf stabilities are shown in blue above each branch. Figure 2:  Cladogram showing 4 different branch supports. 64- taxon PhyloBayes bayesian analyses conducted under CAT model. PP estimated under CAT  15 phyloBayes runs, 6,000 generations each,  1,200 generation burn-in WAG+I+Gamma  8 MrBayes runs of two-million generations each 125,000 generation burn-in 4 chains per run ML bootstrap support was calculated for the 64-taxon data set. 2000 replicate RaxML runs and for the relationship of these 64 taxa in the 77-taxon analysis (by pruning all other taxa from the bootstrap replicats summarized in Fig 1)  Q?Q What are these 64 taxa and what are these 77 taxa? Questions: What was their procedure for gene selection? see methods and suppl. fig 2. Read and find out why Casey showed a cladogram AND a phylogram? Why one is with 64 taxa the other with 77? 77 taxa (71 metazoans) 150 genes. Taxa include 50.9% of the 150 genes. CAT model 11.	Lartillot, N. & Philippe, H. A Bayesian mixture model for across-site heterogeneities in the amino-acid replacement process. Mol. Biol. Evol. 21, 1095–1109 (2004). PP(WAG) / PP(CAT) BS(WAG, 64 taxon) / BS(WAG, 77 taxon) PP = Posterior probability BS = BootStrap support },
+  author = {Dunn, CW and Hejnol, A and Matus, DQ and Pang, K and Browne, WE and Smith, SA and Seaver, E and Rouse, GW and Obst, M and Edgecombe, GD},
+  date-added = {2009-11-25 12:15:04 -0800},
+  date-modified = {2010-03-01 19:40:48 -0800},
+  journal = {Nature},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Dunn/Nature%202008%20Dunn.pdf},
+  number = {7188},
+  pages = {745–749},
+  pmid = {18396448183418403245related:rbmIfSdQTf8J},
+  rating = {0},
+  read = {Yes},
+  title = {Broad phylogenomic sampling improves resolution of the animal tree of life},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3077},
+  volume = {452},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAcYAAAAAAcYAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAC3HHhROYXR1cmUgMjAwOCBEdW5uLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiTZCxkWd0AAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAERHVubgAQAAgAAMY6zgQAAAARAAgAAMZGAEAAAAABABgALcceABpczAAaL2AACpr+AAqa5wAAhe0AAgBOTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwODpEdW5uOk5hdHVyZSAyMDA4IER1bm4ucGRmAA4AKgAUAE4AYQB0AHUAcgBlACAAMgAwADAAOAAgAEQAdQBuAG4ALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAEFVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDgvRHVubi9OYXR1cmUgMjAwOCBEdW5uLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QNS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwOC9EdW5uL05hdHVyZSAyMDA4IER1bm4ucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAmoCbAJxAnoChQKJApcCngKnAt8C5ALnAvQC+QAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAML}
+}
+Found 1 new identifiers for 'Latitudinal Differentiation in Copepod Growth: An Adaptation to Temperature' by Lonsdale, Darcy J and Levinton, Jeffrey S:
+["DOI:10.2307/1938002"]
+@article{darcy_j._lonsdale_latitudinal_1985,
+  annote = {We demonstrate the presence of significant differentiation in development rate, adult body length, and stomatic growth rate in the estuarine harpacticoid copepod Scottolana canadensis (Willey) collected from a broad range of latitudes (2743 N) and reared in the laboratory for several generations under the same conditions (15 g salts per 1000 g seawater, and 15, 20, 25, or 28C). The changing pattern of differential growth with increased temperature suggests local adaptation to maximize scope for growth under prevailing temperatures conditions; northernderived individuals grew faster at low but not at high temperatures. See full-text article at JSTOR},
+  author = {Lonsdale, Darcy J and Levinton, Jeffrey S},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Ecology},
+  number = {5},
+  pages = {1397–1407},
+  rating = {0},
+  title = {Latitudinal Differentiation in Copepod Growth: An Adaptation to Temperature},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p999},
+  volume = {66},
+  year = {1985}
+}
+--batch: 7 containing 10
+got 8 results
+--batch: 8 containing 10
+got 10 results
+Found 2 new identifiers for 'Cold-adapted Organisms' by Margesin, Rosa and Schinner, Franz:
+["ISBN:978-3-642-63663-9", "DOI:10.1007/978-3-642-58607-1"]
+@book{margesin_cold-adapted_1999,
+  author = {Margesin, Rosa and Schinner, Franz},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  pages = {416},
+  rating = {0},
+  title = {Cold-adapted Organisms},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1128},
+  year = {1999}
+}
+Found 1 new identifiers for 'The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments' by Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A:
+["DOI:10.1089/ast.2007.0124"]
+@misc{steven_m._jepsen_potential_2007,
+  annote = {We developed a numerical model to assess the lithoautotrophic habitability of Mars based on metabolic energy, nutrients, water availability, and temperature. Available metabolic energy and nutrient sources were based on a laboratory-produced Mars-analog inorganic chemistry. For this specific reference chemistry, the most efficient lithoautotrophic microorganisms would use Fe2+ as a primary metabolic electron donor and NO3− or gaseous O2 as a terminal electron acceptor. In a closed model system, biomass production was limited by the electron donor Fe2+ and metabolically required P, and typically amounted to ∼800 pg of dry biomass/ml (∼8,500 cells/ml). Continued growth requires propagation of microbes to new fecund environments, delivery of fresh pore fluid, or continued reaction with the host material. Within the shallow cryosphere[–]where oxygen can be accessed by microbes and microbes can be accessed by exploration[–]lithoautotrophs can function within as little as three monolayers of interfacial water...},
+  author = {Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Miscellaneous},
+  keywords = {Iron, Thin film, Nitrogen, Free energy, Mars, Life, Phosphorus, Interfacial water},
+  rating = {0},
+  title = {The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p946},
+  year = {2007}
+}
+Found 2 new identifiers for 'Psychrophiles: from Biodiversity to Biotechnolgy' by Margesin, Rosa and Schinner, Franz and Marx, Jean-Claude and Gerday, Charles:
+["ISBN:978-3-540-74334-7", "DOI:10.1007/978-3-540-74335-4"]
+@book{margesin_psychrophiles:biodiversity_2007,
+  author = {Margesin, Rosa and Schinner, Franz and Marx, Jean-Claude and Gerday, Charles},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  pages = {462},
+  rating = {0},
+  title = {Psychrophiles: from Biodiversity to Biotechnolgy},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p851},
+  year = {2007}
+}
+--batch: 9 containing 10
+got 8 results
+Found 1 new identifiers for 'Deinococcus radiodurans—the consummate survivor' by Cox, MM and Battista, JR:
+["DOI:10.1038/nrmicro1264"]
+@article{Cox:2005p3966,
+  author = {Cox, MM and Battista, JR},
+  date-added = {2010-03-25 11:19:21 -0700},
+  date-modified = {2010-03-25 11:19:46 -0700},
+  journal = {Nature Reviews Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2005/Cox/Nature%20Reviews%20Microbiology%202005%20Cox.pdf},
+  number = {11},
+  pages = {882–892},
+  pmid = {17405687862620943875related:A3bZSuRsjfEJ},
+  rating = {0},
+  title = {Deinococcus radiodurans—the consummate survivor},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3966},
+  volume = {3},
+  year = {2005},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAgoAAAAAAgoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJzk/h9OYXR1cmUgUmV2aWV3cyBNaWNybyM5Q0RBQTgucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnNqox8/aEAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAADQ294AAAQAAgAAMY6zgQAAAARAAgAAMfQPIAAAAABABgAnOT+ABpB4QAaL2AACpr+AAqa5wAAhe0AAgBYTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwNTpDb3g6TmF0dXJlIFJldmlld3MgTWljcm8jOUNEQUE4LnBkZgAOAFIAKABOAGEAdAB1AHIAZQAgAFIAZQB2AGkAZQB3AHMAIABNAGkAYwByAG8AYgBpAG8AbABvAGcAeQAgADIAMAAwADUAIABDAG8AeAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAVFVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNS9Db3gvTmF0dXJlIFJldmlld3MgTWljcm9iaW9sb2d5IDIwMDUgQ294LnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBILi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA1L0NveC9OYXR1cmUgUmV2aWV3cyBNaWNyb2Jpb2xvZ3kgMjAwNSBDb3gucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAq4CsAK1Ar4CyQLNAtsC4gLrAzYDOwM+A0sDUAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANi}
+}
+Found 1 new identifiers for 'Phylogenetic diversity of Synechococcus in the Chesapeake Bay revealed by ribulose-1, 5-bisphosphate carboxylase-oxygenase (RuBisCO) large subunit gene (rbcL) sequences' by Chen, F and Wang, K and Kan, J and Bachoon, DS and Lu, J and Lau, S and Campbell, L:
+["DOI:10.3354/ame036153"]
+@article{Chen:2004p3692,
+  author = {Chen, F and Wang, K and Kan, J and Bachoon, DS and Lu, J and Lau, S and Campbell, L},
+  date-added = {2010-01-25 22:22:28 -0800},
+  date-modified = {2010-01-25 22:23:55 -0800},
+  journal = {Aquatic microbial ecology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2004/Chen/Aquatic%20microbial%20ecology%202004%20Chen.pdf},
+  number = {2},
+  pages = {153–164},
+  pmid = {8850215223329490091related:qwRP7NpH0noJ},
+  rating = {0},
+  title = {Phylogenetic diversity of Synechococcus in the Chesapeake Bay revealed by ribulose-1, 5-bisphosphate carboxylase-oxygenase (RuBisCO) large subunit gene (rbcL) sequences},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3692},
+  volume = {36},
+  year = {2004},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAgoAAAAAAgoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAG1PmB9BcXVhdGljIG1pY3JvYmlhbCBlYyM2RDRDREMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbUzcx4PGLAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEQ2hlbgAQAAgAAMY6zgQAAAARAAgAAMeENqwAAAABABgAbU+YABpc0QAaL2AACpr+AAqa5wAAhe0AAgBZTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwNDpDaGVuOkFxdWF0aWMgbWljcm9iaWFsIGVjIzZENENEQy5wZGYAAA4AUAAnAEEAcQB1AGEAdABpAGMAIABtAGkAYwByAG8AYgBpAGEAbAAgAGUAYwBvAGwAbwBnAHkAIAAyADAAMAA0ACAAQwBoAGUAbgAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAVFVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNC9DaGVuL0FxdWF0aWMgbWljcm9iaWFsIGVjb2xvZ3kgMjAwNCBDaGVuLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBILi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA0L0NoZW4vQXF1YXRpYyBtaWNyb2JpYWwgZWNvbG9neSAyMDA0IENoZW4ucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAq4CsAK1Ar4CyQLNAtsC4gLrAzYDOwM+A0sDUAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANi}
+}
+Found 1 new identifiers for 'On the origin of prokaryotic species' by Doolittle, W Ford and Zhaxybayeva, Olga:
+["DOI:10.1101/gr.086645.108"]
+@article{doolittle_origin_2009,
+  author = {Doolittle, W Ford and Zhaxybayeva, Olga},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Genome Research},
+  pages = {p744–756},
+  rating = {0},
+  title = {On the origin of prokaryotic species},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p939},
+  volume = {19},
+  year = {2009}
+}
+--batch: 10 containing 10
+Asking if doi exists http://www.economist.com/business-finance/displaystory.cfm?story_id=7854314
+Asking if doi exists http://www.economist.com/business-finance/displaystory.cfm?story_id=7854314
+got 6 results
+Found 1 new identifiers for 'CYANOBACTERIAL DOMINANCE OF POLAR FRESHWATER ECOSYSTEMS: ARE HIGH-LATITUDE MAT-FORMERS ADAPTED TO LOW TEMPERATURE?’' by Tang, E and Tremblay, R and Vincent, W:
+["DOI:10.1111/j.0022-3646.1997.00171.x"]
+@article{Tang:1997p3678,
+  author = {Tang, E and Tremblay, R and Vincent, W},
+  date-added = {2010-01-22 17:53:13 -0800},
+  date-modified = {2010-01-22 17:55:18 -0800},
+  journal = {J. Phycol},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/1997/Tang/J.%20Phycol%201997%20Tang.pdf},
+  pages = {171–181},
+  pmid = {9424510211834537586related:cmZwvhqWyoIJ},
+  rating = {0},
+  read = {Yes},
+  title = {CYANOBACTERIAL DOMINANCE OF POLAR FRESHWATER ECOSYSTEMS: ARE HIGH-LATITUDE MAT-FORMERS ADAPTED TO LOW TEMPERATURE?’},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3678},
+  volume = {33},
+  year = {1997},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAdIAAAAAAdIAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAGYiNxdKLiBQaHljb2wgMTk5NyBUYW5nLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkZKlx3+VzwAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEVGFuZwAQAAgAAMY6zgQAAAARAAgAAMeABk8AAAABABgAZiI3ACP0xgAaL2AACpr+AAqa5wAAhe0AAgBRTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MTk5NzpUYW5nOkouIFBoeWNvbCAxOTk3IFRhbmcucGRmAAAOADAAFwBKAC4AIABQAGgAeQBjAG8AbAAgADEAOQA5ADcAIABUAGEAbgBnAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBEVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8xOTk3L1RhbmcvSi4gUGh5Y29sIDE5OTcgVGFuZy5wZGYAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QOC4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMTk5Ny9UYW5nL0ouIFBoeWNvbCAxOTk3IFRhbmcucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAnYCeAJ9AoYCkQKVAqMCqgKzAu4C8wL2AwMDCAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMa}
+}
+Found 1 new identifiers for 'An Inexpensive Apparatus for Growing Photosynthetic Microorganisms in Exotic Atmospheres' by Herbert, Dr David J Thomas Stephen K:
+["DOI:10.1089/ast.2005.5.75"]
+@article{Herbert:2008p3085,
+  abstract = {Astrobiology 2005.5:75-82},
+  author = {Herbert, Dr David J Thomas Stephen K},
+  date-added = {2009-12-14 16:43:32 -0800},
+  date-modified = {2009-12-14 16:43:32 -0800},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Herbert/2008%20Herbert.pdf},
+  month = {nov},
+  pages = {1–9},
+  rating = {0},
+  read = {Yes},
+  title = {An Inexpensive Apparatus for Growing Photosynthetic Microorganisms in Exotic Atmospheres},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3085},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAcAAAAAAAcAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAADQniBAyMDA4IEhlcmJlcnQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANCkLx0wbjQAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAHSGVyYmVydAAAEAAIAADGOs4EAAAAEQAIAADHTIwNAAAAAQAYADQniAAaXMwAGi9gAAqa/gAKmucAAIXtAAIATU1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDg6SGVyYmVydDoyMDA4IEhlcmJlcnQucGRmAAAOACIAEAAyADAAMAA4ACAASABlAHIAYgBlAHIAdAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAQFVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwOC9IZXJiZXJ0LzIwMDggSGVyYmVydC5wZGYAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QNC4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwOC9IZXJiZXJ0LzIwMDggSGVyYmVydC5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACZAJmAmsCdAJ/AoMCkQKYAqEC2ALdAuAC7QLyAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAwQ=}
+}
+Found 1 new identifiers for 'Transplastomic tobacco plants expressing a fatty acid desaturase gene exhibit altered fatty acid profiles and improved cold tolerance' by Craig, W and Lenzi, P and Scotti, N and Palma, M De and Saggese, P and Carbone, V and Curran, N McGrath and Magee, AM and Medgyesy, P and Kavanagh, TA:
+["DOI:10.1007/s11248-008-9164-9"]
+@article{Craig:2008p3979,
+  author = {Craig, W and Lenzi, P and Scotti, N and Palma, M De and Saggese, P and Carbone, V and Curran, N McGrath and Magee, AM and Medgyesy, P and Kavanagh, TA},
+  date-added = {2010-04-12 18:00:06 -0700},
+  date-modified = {2010-04-12 18:00:17 -0700},
+  journal = {Transgenic research},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Craig/Transgenic%20research%202008%20Craig.pdf},
+  number = {5},
+  pages = {769–782},
+  pmid = {4059520912520356121related:GaEL_cJQVjgJ},
+  rating = {0},
+  title = {Transplastomic tobacco plants expressing a fatty acid desaturase gene exhibit altered fatty acid profiles and improved cold tolerance},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3979},
+  volume = {17},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAf4AAAAAAf4AAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAALCQYx9UcmFuc2dlbmljIHJlc2VhcmNoICNCMDkwNUIucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsJBbx+kQJgAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAFQ3JhaWcAABAACAAAxjrOBAAAABEACAAAx+lylgAAAAEAGACwkGMAGlzMABovYAAKmv4ACprnAACF7QACAFpNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA4OkNyYWlnOlRyYW5zZ2VuaWMgcmVzZWFyY2ggI0IwOTA1Qi5wZGYADgBGACIAVAByAGEAbgBzAGcAZQBuAGkAYwAgAHIAZQBzAGUAYQByAGMAaAAgADIAMAAwADgAIABDAHIAYQBpAGcALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAFBVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDgvQ3JhaWcvVHJhbnNnZW5pYyByZXNlYXJjaCAyMDA4IENyYWlnLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBELi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA4L0NyYWlnL1RyYW5zZ2VuaWMgcmVzZWFyY2ggMjAwOCBDcmFpZy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACogKkAqkCsgK9AsECzwLWAt8DJgMrAy4DOwNAAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA1I=}
+}
+--batch: 11 containing 10
+got 9 results
+Found 1 new identifiers for 'A statistical method for comparing viral growth curves' by Wang, GP and Bushman, FD:
+["DOI:10.1016/j.jviromet.2006.02.008"]
+@article{Wang:2006p3962,
+  author = {Wang, GP and Bushman, FD},
+  date-added = {2010-03-20 09:46:18 -0700},
+  date-modified = {2010-03-20 09:46:28 -0700},
+  journal = {Journal of virological methods},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2006/Wang/Journal%20of%20virological%20methods%202006%20Wang.pdf},
+  number = {1},
+  pages = {118–123},
+  pmid = {4674517371383409787related:e2yzWcg430AJ},
+  rating = {0},
+  title = {A statistical method for comparing viral growth curves},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3962},
+  volume = {135},
+  year = {2006},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAhoAAAAAAhoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJmuGh9Kb3VybmFsIG9mIHZpcm9sb2dpYyM5OUFFMDcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAma4Hx8pJ2wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEV2FuZwAQAAgAAMY6zgQAAAARAAgAAMfKrEsAAAABABgAma4aABpBdAAaL2AACpr+AAqa5wAAhe0AAgBZTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwNjpXYW5nOkpvdXJuYWwgb2Ygdmlyb2xvZ2ljIzk5QUUwNy5wZGYAAA4AWgAsAEoAbwB1AHIAbgBhAGwAIABvAGYAIAB2AGkAcgBvAGwAbwBnAGkAYwBhAGwAIABtAGUAdABoAG8AZABzACAAMgAwADAANgAgAFcAYQBuAGcALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAFlVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDYvV2FuZy9Kb3VybmFsIG9mIHZpcm9sb2dpY2FsIG1ldGhvZHMgMjAwNiBXYW5nLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QTS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNi9XYW5nL0pvdXJuYWwgb2Ygdmlyb2xvZ2ljYWwgbWV0aG9kcyAyMDA2IFdhbmcucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAr4CwALFAs4C2QLdAusC8gL7A0sDUANTA2ADZQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAN3}
+}
+Found 1 new identifiers for 'The 96-Well Twin-Layer System: A novel approach in the cultivation of microalgae' by Nowack, E and Podola, B and Melkonian, M:
+["DOI:10.1016/j.protis.2005.04.003"]
+@article{Nowack:2005p3975,
+  author = {Nowack, E and Podola, B and Melkonian, M},
+  date-added = {2010-04-08 21:45:01 -0700},
+  date-modified = {2010-04-08 21:45:15 -0700},
+  journal = {Protist},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2005/Nowack/Protist%202005%20Nowack.pdf},
+  number = {2},
+  pages = {239–251},
+  pmid = {9483044889144135027related:cw2FVhWLmoMJ},
+  rating = {0},
+  title = {The 96-Well Twin-Layer System: A novel approach in the cultivation of microalgae},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3975},
+  volume = {156},
+  year = {2005},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAdgAAAAAAdgAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAKrUYhdQcm90aXN0IDIwMDUgTm93YWNrLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqtRMx+P+0wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAGTm93YWNrABAACAAAxjrOBAAAABEACAAAx+RhQwAAAAEAGACq1GIAGkHhABovYAAKmv4ACprnAACF7QACAFNNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA1Ok5vd2FjazpQcm90aXN0IDIwMDUgTm93YWNrLnBkZgAADgAwABcAUAByAG8AdABpAHMAdAAgADIAMAAwADUAIABOAG8AdwBhAGMAawAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIARlVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNS9Ob3dhY2svUHJvdGlzdCAyMDA1IE5vd2Fjay5wZGYAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QOi4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNS9Ob3dhY2svUHJvdGlzdCAyMDA1IE5vd2Fjay5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACfAJ+AoMCjAKXApsCqQKwArkC9gL7Av4DCwMQAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAyI=}
+}
+Found 2 new identifiers for 'Biomining' by Rawlings, Douglas E and Johnson, D Barrie:
+["ISBN:978-3-540-34909-9", "DOI:10.1007/978-3-540-34911-2"]
+@book{rawlings_biomining_2006,
+  author = {Rawlings, Douglas E and Johnson, D Barrie},
+  date-added = {2009-10-11 23:43:04 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Book},
+  pages = {333},
+  rating = {0},
+  title = {Biomining},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1154},
+  year = {2006}
+}
+Found 1 new identifiers for 'Population Genetics: A Concise Guide' by Gillespie, John H:
+["DOI:10.2307/2533705"]
+@book{gillespie_population_2004,
+  author = {Gillespie, John H},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  keywords = {dans},
+  rating = {0},
+  title = {Population Genetics: A Concise Guide},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p843},
+  year = {2004}
+}
+Found 1 new identifiers for 'Experiments in Molecular Genetics' by Miller, Jeffrey H:
+["DOI:10.1097/01.jnen.0000268836.67111.a3"]
+@book{miller_experiments_1972,
+  author = {Miller, Jeffrey H},
+  date-added = {2009-10-11 23:42:53 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Book},
+  pages = {468},
+  rating = {0},
+  title = {Experiments in Molecular Genetics},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p935},
+  year = {1972}
+}
+--batch: 12 containing 10
+Asking if doi exists doi:10.1089/153871303769201851.
+Asking if doi exists doi:10.1089/153871303769201851.
+got 9 results
+Found 1 new identifiers for '2' by supplemental, Tanabe:
+["DOI:10.1246/nikkashi.1985.2199"]
+@article{supplemental:2007p3961,
+  author = {supplemental, Tanabe},
+  date-added = {2010-03-16 22:50:32 -0700},
+  date-modified = {2010-03-16 23:37:31 -0700},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2007/supplemental/2007%20supplemental.pdf},
+  month = {jun},
+  pages = {1–7},
+  rating = {0},
+  read = {Yes},
+  title = {2},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3961},
+  year = {2007},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAeIAAAAAAeIAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJV3IxUyMDA3IHN1cHBsZW1lbnRhbC5wZGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlSqPx8WZhAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAMc3VwcGxlbWVudGFsABAACAAAxjrOBAAAABEACAAAx8X79AAAAAEAGACVdyMAGkG8ABovYAAKmv4ACprnAACF7QACAFdNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA3OnN1cHBsZW1lbnRhbDoyMDA3IHN1cHBsZW1lbnRhbC5wZGYAAA4ALAAVADIAMAAwADcAIABzAHUAcABwAGwAZQBtAGUAbgB0AGEAbAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIASlVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNy9zdXBwbGVtZW50YWwvMjAwNyBzdXBwbGVtZW50YWwucGRmABMAAS8AABUAAgAS//8AAIAF0hwdHh9YJGNsYXNzZXNaJGNsYXNzbmFtZaMfICFdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfED4uLi8uLi9Eb2N1bWVudHMvUGFwZXJzLzIwMDcvc3VwcGxlbWVudGFsLzIwMDcgc3VwcGxlbWVudGFsLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAKGAogCjQKWAqECpQKzAroCwwMEAwkDDAMZAx4AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADMA==}
+}
+Found 2 new identifiers for 'Using MODELTEST and PAUP* to select a model of nucleotide substitution.' by Posada, D:
+["ISBN:0471250953", "DOI:10.1002/0471250953.bi0605s00"]
+@article{Posada:2003p3948,
+  author = {Posada, D},
+  date-added = {2010-02-24 08:11:44 -0800},
+  date-modified = {2010-02-25 19:25:58 -0800},
+  journal = {Current protocols in bioinformatics/editoral board, Andreas D. Baxevanis...[et al.]},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2003/Posada/Current%20protocols%20in%20bioinformaticseditoral%20board%20Andreas%20D.%20Baxevanis...%5Bet%20al.%5D%202003%20Posada.pdf},
+  pmid = {11456901991020366887related:Jww82agX_54J},
+  rating = {0},
+  read = {Yes},
+  title = {Using MODELTEST and PAUP* to select a model of nucleotide substitution.},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3948},
+  year = {2003},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAr4AAAAAAr4AAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAIZ/xB9DdXJyZW50IHByb3RvY29scyBpbiM4NjgyOTYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhoKWx6qPiQAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAGUG9zYWRhABAACAAAxjrOBAAAABEACAAAx6sACQAAAAEAGACGf8QAGoUnABovYAAKmv4ACprnAACF7QACAFtNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDAzOlBvc2FkYTpDdXJyZW50IHByb3RvY29scyBpbiM4NjgyOTYucGRmAAAOAMQAYQBDAHUAcgByAGUAbgB0ACAAcAByAG8AdABvAGMAbwBsAHMAIABpAG4AIABiAGkAbwBpAG4AZgBvAHIAbQBhAHQAaQBjAHMAZQBkAGkAdABvAHIAYQBsACAAYgBvAGEAcgBkACAAQQBuAGQAcgBlAGEAcwAgAEQALgAgAEIAYQB4AGUAdgBhAG4AaQBzAC4ALgAuAFsAZQB0ACAAYQBsAC4AXQAgADIAMAAwADMAIABQAG8AcwBhAGQAYQAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAkFVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwMy9Qb3NhZGEvQ3VycmVudCBwcm90b2NvbHMgaW4gYmlvaW5mb3JtYXRpY3NlZGl0b3JhbCBib2FyZCBBbmRyZWFzIEQuIEJheGV2YW5pcy4uLltldCBhbC5dIDIwMDMgUG9zYWRhLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxCELi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDAzL1Bvc2FkYS9DdXJyZW50IHByb3RvY29scyBpbiBiaW9pbmZvcm1hdGljc2VkaXRvcmFsIGJvYXJkIEFuZHJlYXMgRC4gQmF4ZXZhbmlzLi4uW2V0IGFsLl0gMjAwMyBQb3NhZGEucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgA2IDZANpA3IDfQOBA48DlgOfBCYEKwQuBDsEQAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAARS}
+}
+Asking if doi exists doi:10.1089/153871303769201851.
+Asking if doi exists doi:10.1089/153871303769201851.
+Found 1 new identifiers for 'The Pace and Proliferation of Biological Technologies' by Carlson, Robert:
+["DOI:10.1089/153871303769201851"]
+@article{carlson_pace_2003,
+  author = {Carlson, Robert},
+  date-added = {2009-10-11 23:42:36 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {doi:10.1089/153871303769201851.},
+  journal = {Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science},
+  number = {3},
+  pages = {203–214},
+  rating = {0},
+  title = {The Pace and Proliferation of Biological Technologies},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1205},
+  volume = {1},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/10.1089/153871303769201851.}
+}
+Found 1 new identifiers for 'A novel Δ9 acyl-lipid desaturase, DesC2, from cyanobacteria acts on fatty acids esterified to the sn− 2 position of glycerolipids' by Chintalapati, S and Prakash, JSS and Gupta, P and Ohtani, S and Suzuki, I and Sakamoto, T and Murata, N and Shivaji, S:
+["DOI:10.1042/BJ20060039"]
+@article{Chintalapati:2006p3891,
+  author = {Chintalapati, S and Prakash, JSS and Gupta, P and Ohtani, S and Suzuki, I and Sakamoto, T and Murata, N and Shivaji, S},
+  date-added = {2010-01-26 20:17:38 -0800},
+  date-modified = {2010-01-27 10:20:55 -0800},
+  journal = {Biochemical Journal},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2006/Chintalapati/Biochemical%20Journal%202006%20Chintalapati.pdf},
+  number = {Pt 2},
+  pages = {207},
+  pmid = {70392757931739406related:DglII9cV-gAJ},
+  rating = {0},
+  title = {A novel Δ9 acyl-lipid desaturase, DesC2, from cyanobacteria acts on fatty acids esterified to the sn− 2 position of glycerolipids},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3891},
+  volume = {398},
+  year = {2006},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAigAAAAAAigAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAG3InB9CaW9jaGVtaWNhbCBKb3VybmFsICNEOEY5QTMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2Pmjx4T84wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAMQ2hpbnRhbGFwYXRpABAACAAAxjrOBAAAABEACAAAx4VtYwAAAAEAGABtyJwAGkF0ABovYAAKmv4ACprnAACF7QACAGFNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA2OkNoaW50YWxhcGF0aTpCaW9jaGVtaWNhbCBKb3VybmFsICNEOEY5QTMucGRmAAAOAFQAKQBCAGkAbwBjAGgAZQBtAGkAYwBhAGwAIABKAG8AdQByAG4AYQBsACAAMgAwADAANgAgAEMAaABpAG4AdABhAGwAYQBwAGEAdABpAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBeVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA2L0NoaW50YWxhcGF0aS9CaW9jaGVtaWNhbCBKb3VybmFsIDIwMDYgQ2hpbnRhbGFwYXRpLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBSLi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA2L0NoaW50YWxhcGF0aS9CaW9jaGVtaWNhbCBKb3VybmFsIDIwMDYgQ2hpbnRhbGFwYXRpLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoALMAs4C0wLcAucC6wL5AwADCQNeA2MDZgNzA3gAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADig==}
+}
+Found 1 new identifiers for 'Patterns and mechanisms of genetic and phenotypic differentiation in marine microbes' by Polz, MF and Hunt, DE and Preheim, SP and Weinreich, DM:
+["DOI:10.1098/rstb.2006.1928"]
+@article{Polz:2006p3955,
+  annote = {Notes - outline the sections... Looks at the units of genetic diversity Points out that ocean microbes will have different patterns of genetic diversity than sexual animals. 1) Intro 2) The life aquatic, ecolocical parametes in the ocean surface. 3) Patters of microbial diversity * not this section Dan says.. 4) sequence clusters as populations or species. 5) Toward bacterial population genomics in the ocean. 6) Genomic consequences of adaptation to envieonmental variations 7) conclusions. },
+  author = {Polz, MF and Hunt, DE and Preheim, SP and Weinreich, DM},
+  date-added = {2010-02-27 12:25:47 -0800},
+  date-modified = {2010-02-27 12:53:44 -0800},
+  journal = {Philosophical Transactions B},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2006/Polz/Philosophical%20Transactions%20B%202006%20Polz.pdf},
+  number = {1475},
+  pages = {2009},
+  pmid = {1170177655520059551related:n2BfuWBOPRAJ},
+  rating = {0},
+  read = {Yes},
+  title = {Patterns and mechanisms of genetic and phenotypic differentiation in marine microbes},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3955},
+  volume = {361},
+  year = {2006},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAhQAAAAAAhQAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAIdBWR9QaGlsb3NvcGhpY2FsIFRyYW5zYSM4RUEzQjcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjqO3xu4qoQAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEUG9segAQAAgAAMY6zgQAAAARAAgAAMbujREAAAABABgAh0FZABpBdAAaL2AACpr+AAqa5wAAhe0AAgBZTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwNjpQb2x6OlBoaWxvc29waGljYWwgVHJhbnNhIzhFQTNCNy5wZGYAAA4AVgAqAFAAaABpAGwAbwBzAG8AcABoAGkAYwBhAGwAIABUAHIAYQBuAHMAYQBjAHQAaQBvAG4AcwAgAEIAIAAyADAAMAA2ACAAUABvAGwAegAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAV1VzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNi9Qb2x6L1BoaWxvc29waGljYWwgVHJhbnNhY3Rpb25zIEIgMjAwNiBQb2x6LnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QSy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNi9Qb2x6L1BoaWxvc29waGljYWwgVHJhbnNhY3Rpb25zIEIgMjAwNiBQb2x6LnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAK4AroCvwLIAtMC1wLlAuwC9QNDA0gDSwNYA10AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADbw==}
+}
+--batch: 13 containing 10
+got 9 results
+Found 1 new identifiers for 'Life in extreme environments' by Rothschild, LJ and Mancinelli, RL:
+["DOI:10.1038/35059215"]
+@article{Rothschild:2001p3083,
+  author = {Rothschild, LJ and Mancinelli, RL},
+  date-added = {2009-12-10 20:46:55 -0800},
+  date-modified = {2009-12-10 20:47:39 -0800},
+  journal = {Nature},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2001/Rothschild/Nature%202001%20Rothschild.pdf},
+  number = {6823},
+  pages = {1092–1101},
+  pmid = {13075415364536033075related:M9_aXf80dbUJ},
+  rating = {0},
+  title = {Life in extreme environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3083},
+  volume = {409},
+  year = {2001},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAfAAAAAAAfAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAADEEGhpOYXR1cmUgMjAwMSBSb3Roc2NoaWxkLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQPEx0cOrAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAKUm90aHNjaGlsZAAQAAgAAMY6zgQAAAARAAgAAMdHfywAAAABABgAMQQaABpc2AAaL2AACpr+AAqa5wAAhe0AAgBaTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwMTpSb3Roc2NoaWxkOk5hdHVyZSAyMDAxIFJvdGhzY2hpbGQucGRmAA4ANgAaAE4AYQB0AHUAcgBlACAAMgAwADAAMQAgAFIAbwB0AGgAcwBjAGgAaQBsAGQALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAE1Vc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDEvUm90aHNjaGlsZC9OYXR1cmUgMjAwMSBSb3Roc2NoaWxkLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QQS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwMS9Sb3Roc2NoaWxkL05hdHVyZSAyMDAxIFJvdGhzY2hpbGQucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgApQClgKbAqQCrwKzAsECyALRAxUDGgMdAyoDLwAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANB}
+}
+Found 1 new identifiers for 'Rapid preparation of cyanobacterial DNA for real-time PCR analysis' by Rasmussen, JP and Barbez, PH and Burgoyne, LA and Saint, CP:
+["DOI:10.1111/j.1472-765X.2007.02252.x"]
+@article{Rasmussen:2008p3076,
+  author = {Rasmussen, JP and Barbez, PH and Burgoyne, LA and Saint, CP},
+  date-added = {2009-11-25 10:30:48 -0800},
+  date-modified = {2009-11-25 10:32:17 -0800},
+  journal = {Letters in Applied Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Rasmussen/Letters%20in%20Applied%20Microbiology%202008%20Rasmussen.pdf},
+  number = {1},
+  pages = {14–19},
+  pmid = {16450483300972241228related:TCHyYWfbS-QJ},
+  rating = {0},
+  title = {Rapid preparation of cyanobacterial DNA for real-time PCR analysis},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3076},
+  volume = {46},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAjoAAAAAAjoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAC3Djh9MZXR0ZXJzIGluIEFwcGxpZWQgTSMxOTRDNEEucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGUxKxuvBVAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAJUmFzbXVzc2VuAAAQAAgAAMY6zgQAAAARAAgAAMbsI8QAAAABABgALcOOABpczAAaL2AACpr+AAqa5wAAhe0AAgBeTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwODpSYXNtdXNzZW46TGV0dGVycyBpbiBBcHBsaWVkIE0jMTk0QzRBLnBkZgAOAGYAMgBMAGUAdAB0AGUAcgBzACAAaQBuACAAQQBwAHAAbABpAGUAZAAgAE0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMgAwADAAOAAgAFIAYQBzAG0AdQBzAHMAZQBuAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBkVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA4L1Jhc211c3Nlbi9MZXR0ZXJzIGluIEFwcGxpZWQgTWljcm9iaW9sb2d5IDIwMDggUmFzbXVzc2VuLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBYLi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA4L1Jhc211c3Nlbi9MZXR0ZXJzIGluIEFwcGxpZWQgTWljcm9iaW9sb2d5IDIwMDggUmFzbXVzc2VuLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoALeAuAC5QLuAvkC/QMLAxIDGwN2A3sDfgOLA5AAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADog==}
+}
+Found 1 new identifiers for 'Effect of Evaporation Losses on Experimental Continuous Culture Results' by King, WR and Sinclair, CG and Topiwala, HH:
+["DOI:10.1099/00221287-71-1-87"]
+@article{King:1972p3978,
+  author = {King, WR and Sinclair, CG and Topiwala, HH},
+  date-added = {2010-04-11 14:55:52 -0700},
+  date-modified = {2010-04-11 14:57:33 -0700},
+  journal = {Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/1972/King/Microbiology%201972%20King.pdf},
+  number = {1},
+  pages = {87},
+  pmid = {17400411859406887641related:2RpxEWWuevEJ},
+  rating = {0},
+  title = {Effect of Evaporation Losses on Experimental Continuous Culture Results},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3978},
+  volume = {71},
+  year = {1972},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAd4AAAAAAd4AAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAK40qRpNaWNyb2Jpb2xvZ3kgMTk3MiBLaW5nLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArjLLx+eS8AAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAES2luZwAQAAgAAMY6zgQAAAARAAgAAMfn9WAAAAABABgArjSpAK40qAAaL2AACpr+AAqa5wAAhe0AAgBUTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MTk3MjpLaW5nOk1pY3JvYmlvbG9neSAxOTcyIEtpbmcucGRmAA4ANgAaAE0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMQA5ADcAMgAgAEsAaQBuAGcALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAEdVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzE5NzIvS2luZy9NaWNyb2Jpb2xvZ3kgMTk3MiBLaW5nLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QOy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMTk3Mi9LaW5nL01pY3JvYmlvbG9neSAxOTcyIEtpbmcucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAoIChAKJApICnQKhAq8CtgK/Av0DAgMFAxIDFwAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMp}
+}
+Found 1 new identifiers for 'Gene synthesis demystified' by Czar, MJ and Anderson, JC and Bader, JS and Peccoud, J:
+["DOI:10.1016/j.tibtech.2008.10.007"]
+@article{Czar:2009p3097,
+  author = {Czar, MJ and Anderson, JC and Bader, JS and Peccoud, J},
+  date-added = {2010-01-02 11:22:23 -0800},
+  date-modified = {2010-04-12 00:04:54 -0700},
+  journal = {Trends in Biotechnology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2009/Czar/Trends%20in%20Biotechnology%202009%20Czar.pdf},
+  number = {2},
+  pages = {63–72},
+  pmid = {6432913283475728572related:vGh2XIxMRlkJ},
+  rating = {0},
+  title = {Gene synthesis demystified},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3097},
+  volume = {27},
+  year = {2009},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAgQAAAAAAgQAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAK7nwR9UcmVuZHMgaW4gQmlvdGVjaG5vbCM0REFEMkMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATa0sx2Pi6AAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEQ3phcgAQAAgAAMY6zgQAAAARAAgAAMdkU2gAAAABABgArufBABpczwAaL2AACpr+AAqa5wAAhe0AAgBZTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwOTpDemFyOlRyZW5kcyBpbiBCaW90ZWNobm9sIzREQUQyQy5wZGYAAA4ATAAlAFQAcgBlAG4AZABzACAAaQBuACAAQgBpAG8AdABlAGMAaABuAG8AbABvAGcAeQAgADIAMAAwADkAIABDAHoAYQByAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBSVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA5L0N6YXIvVHJlbmRzIGluIEJpb3RlY2hub2xvZ3kgMjAwOSBDemFyLnBkZgATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxBGLi4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA5L0N6YXIvVHJlbmRzIGluIEJpb3RlY2hub2xvZ3kgMjAwOSBDemFyLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoAKoAqoCrwK4AsMCxwLVAtwC5QMuAzMDNgNDA0gAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADWg==}
+}
+--batch: 14 containing 10
+got 7 results
+Found 1 new identifiers for 'Evaluation of PCR-generated chimeras, mutations, and heteroduplexes with 16S rRNA gene-based cloning' by Qiu, X and Wu, L and Huang, H and McDonel, PE and Palumbo, AV and Tiedje, JM and Zhou, J:
+["DOI:10.1128/AEM.67.2.880-887.2001"]
+@article{Qiu:2001p3090,
+  author = {Qiu, X and Wu, L and Huang, H and McDonel, PE and Palumbo, AV and Tiedje, JM and Zhou, J},
+  date-added = {2009-12-18 22:05:19 -0800},
+  date-modified = {2009-12-18 22:06:46 -0800},
+  journal = {Applied and environmental microbiology},
+  keywords = {PCR cycle time},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2001/Qiu/Applied%20and%20environmental%20microbiology%202001%20Qiu.pdf},
+  number = {2},
+  pages = {880},
+  pmid = {9614589148448688782related:jgqc5uPhbYUJ},
+  rating = {0},
+  read = {Yes},
+  title = {Evaluation of PCR-generated chimeras, mutations, and heteroduplexes with 16S rRNA gene-based cloning},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3090},
+  volume = {67},
+  year = {2001},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAiwAAAAAAiwAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAADhJzh9BcHBsaWVkIGFuZCBlbnZpcm9ubSMzODQ4NzMucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOEhzx1Gs+wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAADUWl1AAAQAAgAAMY6zgQAAAARAAgAAMdSHXsAAAABABgAOEnOABpc2AAaL2AACpr+AAqa5wAAhe0AAgBYTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwMTpRaXU6QXBwbGllZCBhbmQgZW52aXJvbm0jMzg0ODczLnBkZgAOAGgAMwBBAHAAcABsAGkAZQBkACAAYQBuAGQAIABlAG4AdgBpAHIAbwBuAG0AZQBuAHQAYQBsACAAbQBpAGMAcgBvAGIAaQBvAGwAbwBnAHkAIAAyADAAMAAxACAAUQBpAHUALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAF9Vc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDEvUWl1L0FwcGxpZWQgYW5kIGVudmlyb25tZW50YWwgbWljcm9iaW9sb2d5IDIwMDEgUWl1LnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QUy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwMS9RaXUvQXBwbGllZCBhbmQgZW52aXJvbm1lbnRhbCBtaWNyb2Jpb2xvZ3kgMjAwMSBRaXUucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAtAC0gLXAuAC6wLvAv0DBAMNA2MDaANrA3gDfQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAOP}
+}
+Found 1 new identifiers for '16S-23S rRNA intergenic spacer region sequence variation in Streptococcus thermophilus and related dairy streptococci and development of a multiplex ITS-SSCP analysis for their identification' by Mora, D and Ricci, G and Guglielmetti, S and Daffonchio, D and Fortina, MG:
+["DOI:10.1099/mic.0.25925-0"]
+@article{Mora:2003p3688,
+  author = {Mora, D and Ricci, G and Guglielmetti, S and Daffonchio, D and Fortina, MG},
+  date-added = {2010-01-25 22:03:01 -0800},
+  date-modified = {2010-01-25 22:03:11 -0800},
+  journal = {Microbiology},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2003/Mora/Microbiology%202003%20Mora.pdf},
+  number = {3},
+  pages = {807},
+  pmid = {16460848940599781568related:wKjQ7eWucOQJ},
+  rating = {0},
+  title = {16S-23S rRNA intergenic spacer region sequence variation in Streptococcus thermophilus and related dairy streptococci and development of a multiplex ITS-SSCP analysis for their identification},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3688},
+  volume = {149},
+  year = {2003},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAd4AAAAAAd4AAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAG03nhpNaWNyb2Jpb2xvZ3kgMjAwMyBNb3JhLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbTX6x4PEjgAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAETW9yYQAQAAgAAMY6zgQAAAARAAgAAMeENQ4AAAABABgAbTeeABqFJwAaL2AACpr+AAqa5wAAhe0AAgBUTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwMzpNb3JhOk1pY3JvYmlvbG9neSAyMDAzIE1vcmEucGRmAA4ANgAaAE0AaQBjAHIAbwBiAGkAbwBsAG8AZwB5ACAAMgAwADAAMwAgAE0AbwByAGEALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAEdVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMDMvTW9yYS9NaWNyb2Jpb2xvZ3kgMjAwMyBNb3JhLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QOy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwMy9Nb3JhL01pY3JvYmlvbG9neSAyMDAzIE1vcmEucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAoIChAKJApICnQKhAq8CtgK/Av0DAgMFAxIDFwAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMp}
+}
+Found 1 new identifiers for 'OutlierD: an R package for outlier detection using quantile regression on mass spectrometry data' by Cho, HJ and Kim, Y and Jung, HJ and Lee, SW and Lee, JW:
+["DOI:10.1093/bioinformatics/btn012"]
+@article{Cho:2008p3946,
+  author = {Cho, HJ and Kim, Y and Jung, HJ and Lee, SW and Lee, JW},
+  date-added = {2010-02-22 00:03:45 -0800},
+  date-modified = {2010-02-22 00:04:17 -0800},
+  journal = {Bioinformatics},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Cho/Bioinformatics%202008%20Cho.pdf},
+  number = {6},
+  pages = {882},
+  pmid = {7611742613784629316related:RBBWGJRXomkJ},
+  rating = {0},
+  title = {OutlierD: an R package for outlier detection using quantile regression on mass spectrometry data},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3946},
+  volume = {24},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAeAAAAAAAeAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAIQ7WRtCaW9pbmZvcm1hdGljcyAyMDA4IENoby5wZGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhDsgx6d53QAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAADQ2hvAAAQAAgAAMY6zgQAAAARAAgAAMen6l0AAAABABgAhDtZABpczAAaL2AACpr+AAqa5wAAhe0AAgBUTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwODpDaG86QmlvaW5mb3JtYXRpY3MgMjAwOCBDaG8ucGRmAA4AOAAbAEIAaQBvAGkAbgBmAG8AcgBtAGEAdABpAGMAcwAgADIAMAAwADgAIABDAGgAbwAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAR1VzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwOC9DaG8vQmlvaW5mb3JtYXRpY3MgMjAwOCBDaG8ucGRmAAATAAEvAAAVAAIAEv//AACABdIcHR4fWCRjbGFzc2VzWiRjbGFzc25hbWWjHyAhXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxA7Li4vLi4vRG9jdW1lbnRzL1BhcGVycy8yMDA4L0Noby9CaW9pbmZvcm1hdGljcyAyMDA4IENoby5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKAChAKGAosClAKfAqMCsQK4AsEC/wMEAwcDFAMZAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAys=}
+}
+--batch: 15 containing 10
+got 0 results
+--batch: 16 containing 6
+got 5 results
+Found 1 new identifiers for 'Growth promotion of Chlorella ellipsoidea by co-inoculation with Brevundimonas sp. isolated from the microalga' by Park, Y and Je, KW and Lee, K and Jung, SE and Choi, TJ:
+["DOI:10.1007/s10750-007-9152-8"]
+@article{Park:2008p3082,
+  author = {Park, Y and Je, KW and Lee, K and Jung, SE and Choi, TJ},
+  date-added = {2009-12-09 18:08:40 -0800},
+  date-modified = {2009-12-09 18:08:51 -0800},
+  journal = {Hydrobiologia},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2008/Park/Hydrobiologia%202008%20Park.pdf},
+  number = {1},
+  pages = {219–228},
+  pmid = {related:XXvZVyVw3w4J},
+  rating = {0},
+  title = {Growth promotion of Chlorella ellipsoidea by co-inoculation with Brevundimonas sp. isolated from the microalga},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3082},
+  volume = {598},
+  year = {2008},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAeIAAAAAAeIAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAADC+kBtIeWRyb2Jpb2xvZ2lhIDIwMDggUGFyay5wZGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAML4jx0WYCgAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAEUGFyawAQAAgAAMY6zgQAAAARAAgAAMdGCIoAAAABABgAML6QABpczAAaL2AACpr+AAqa5wAAhe0AAgBVTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAwODpQYXJrOkh5ZHJvYmlvbG9naWEgMjAwOCBQYXJrLnBkZgAADgA4ABsASAB5AGQAcgBvAGIAaQBvAGwAbwBnAGkAYQAgADIAMAAwADgAIABQAGEAcgBrAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBIVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA4L1BhcmsvSHlkcm9iaW9sb2dpYSAyMDA4IFBhcmsucGRmABMAAS8AABUAAgAS//8AAIAF0hwdHh9YJGNsYXNzZXNaJGNsYXNzbmFtZaMfICFdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfEDwuLi8uLi9Eb2N1bWVudHMvUGFwZXJzLzIwMDgvUGFyay9IeWRyb2Jpb2xvZ2lhIDIwMDggUGFyay5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKAChgKIAo0ClgKhAqUCswK6AsMDAgMHAwoDFwMcAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAy4=}
+}

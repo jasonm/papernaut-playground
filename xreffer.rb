@@ -2,6 +2,7 @@ require 'bibtex'
 require 'active_support/core_ext/object/blank'
 require 'active_model'
 require '/Users/jason/dev/journalclub/frontend/app/models/bibtex_import'
+require '/Users/jason/dev/journalclub/frontend/app/models/doi'
 require 'digest/md5'
 
 require './crossref_author_title_search'
@@ -48,11 +49,14 @@ class Crossreffer
     which_batch = 0
     all_identifiers = []
     unidentified_entries.each_slice(batch_size) do |entries_batch|
-      puts "batch: #{which_batch += 1} containing #{entries_batch.size}"
+      puts "--batch: #{which_batch += 1} containing #{entries_batch.size}"
 
       each_identified_entry(entries_batch) do |entry, identifiers|
         if identifiers.any?
           puts "Found #{identifiers.size} new identifiers for '#{entry.article_attributes[:title]}' by #{entry.article_attributes[:author]}:"
+          p identifiers
+          puts entry.data
+
           all_identifiers << identifiers
         end
       end
@@ -60,8 +64,8 @@ class Crossreffer
       sleep 1
     end
 
-    puts "found #{all_identifiers.size} identifiers in total:"
-    p all_identifiers
+    # puts "found #{all_identifiers.size} identifiers in total:"
+    # p all_identifiers
   end
 
   def unidentified_entries

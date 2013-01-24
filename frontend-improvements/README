@@ -1,0 +1,83 @@
+2012-12-27
+
+When users import a bibtex on the frontend, many entries are currently unidentifiable.
+First, I wrote xreffer.rb which uses the Crossref API to match title+author to a DOI.
+
+Turned out that the unidentifiable bibtex entries fell into 3 categories:
+* Those which actually had a DOI encoded in a previously-unknown field (BDSK-URL-1, etc... also "DOI"... duh...),
+  For this case, the improvement path is simple; augment BibtexImport::Entry to scan these fields.
+* Those which had no DOI encoded.
+  For this case, I'll want to introduce these Crossref API calls into the frontend somehow.  Probably a good time to
+  introduce queue_classic or sidekiq or resque.
+* Those which had a DOI encoded (see case #1) but it was bad.
+  For these... is it better to frequently invoke DOI or Crossref? Hmm...
+  ./bib-with-bad-doi has both bad "doi" field and a "bdsk-url-1" field with bad doi in it.
+  However, it was successfully matched by Crossref API via author+title.
+
+Ok, so some measurements before improvements.
+
+================================================================================
+Run: ./run-1-A
+frontend SHA 25410b821b989be8af73dc3c12e0c70981069c82
+playground SHA 47d14e404e169174c1f4456b6796dbb50df825b6
+
+[master][~/dev/journalclub/playground] ruby xreffer.rb /Users/jason/Downloads/bibtexmylibrary2010april.bib
+653 entries, 187 unidentified
+
+[master][~/dev/journalclub/playground] grep "new identifiers for" frontend-improvements/run-1-A|wc -l
+40
+
+distinct bibtex fields:
+-----------------------
+abstract
+annote
+author
+bdsk-file-1
+bdsk-url-1
+date-added
+date-modified
+doi
+journal
+keywords
+local-url
+month
+note
+number
+pages
+rating
+title
+uri
+volume
+year
+
+x PMID embedded in other field:
+    annote = {PMID: 12596232 AraC review, looping, engineering alosteric function into other proteins, MelAb is a Arac like protein},
+    note = {PMID: 17520016},
+
+x DOI url in other field: (frontend spec/fixtures/bibtex-sample)
+    Note = {http://dx.doi.org/10.1007/978-3-540-69371-0\_9},
+
+
+x DOI field valid:
+    doi = {10.1146/annurev.biochem.75.103004.142723},
+    doi = {10.1128/MMBR.00015-07},
+    doi = {10.3732/ajb.0800258},
+
+> DOI field contains PMID:
+    doi = {14577883}, 
+
+> bdsk-url-*:
+    bibtexmylibrary2010april.bib only contains bdsk-url-1 fields which are "http://dx.doi.org/{contents of doi field}" so it is
+    not a helpful example for this field.
+    a quick google search seems to indicate that other useful URLs may appear here
+
+================================================================================
+
+So far this identifies 31 new articles of 187 unidentified of 653.
+Pretty good improvement so far, on par with the addition of crossref' title+author -> doi lookup.
+
+Next steps:
+
+_ add background job framework to frontend so DOI and crossref reqs are backgrounded
+_ make bibteximport controller job backgrounded
+_ farm out crossref checks, and somehow track state on the import

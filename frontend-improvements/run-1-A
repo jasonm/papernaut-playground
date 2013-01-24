@@ -1,0 +1,764 @@
+[master][~/dev/journalclub/playground] ruby xreffer.rb /Users/jason/Downloads/bibtexmylibrary2010april.bib
+Reading bibliography /Users/jason/Downloads/bibtexmylibrary2010april.bib...
+Counting unidentified entries...
+653 entries, 187 unidentified
+--batch: 1 containing 10
+got 0 results
+--batch: 2 containing 10
+got 7 results
+Found 1 new identifiers for 'The iGEM competition: building with biology' by Brown, J:
+["DOI:10.1049/iet-stb:20079020"]
+@article{brown_igem_2007,
+  author = {Brown, J},
+  date-added = {2009-10-11 23:43:04 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {10.1049/iet-stb:20079020},
+  journal = {Synthetic Biology, IET},
+  number = {1.2},
+  pages = {3–6},
+  rating = {0},
+  title = {The iGEM competition: building with biology},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1268},
+  volume = {1},
+  year = {2007},
+  bdsk-url-1 = {http://dx.doi.org/10.1049/iet-stb:20079020}
+}
+Found 1 new identifiers for 'Visualizing genomes: techniques and challenges' by Nielsen, Cydney B and Cantor, Michael and Dubchak, Inna and Gordon, David and Wang, Ting:
+["DOI:10.1038/nmeth.1422"]
+@article{Nielsen:2010p3976,
+  author = {Nielsen, Cydney B and Cantor, Michael and Dubchak, Inna and Gordon, David and Wang, Ting},
+  date-added = {2010-04-08 23:28:45 -0700},
+  date-modified = {2010-04-08 23:28:45 -0700},
+  doi = {10.1038/nmeth.1422},
+  journal = {Nat Meth},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2010/Nielsen/Nat%20Meth%202010%20Nielsen.pdf},
+  month = {mar},
+  number = {3s},
+  pages = {S5–S15},
+  rating = {0},
+  title = {Visualizing genomes: techniques and challenges},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3976},
+  volume = {7},
+  year = {2010},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAeQAAAAAAeQAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAKr5YRlOYXQgTWV0aCAyMDEwIE5pZWxzZW4ucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvirx+QU4wAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAHTmllbHNlbgAAEAAIAADGOs4EAAAAEQAIAADH5HdTAAAAAQAYAKr5YQBTX/kAGi9gAAqa/gAKmucAAIXtAAIAVk1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMTA6TmllbHNlbjpOYXQgTWV0aCAyMDEwIE5pZWxzZW4ucGRmAA4ANAAZAE4AYQB0ACAATQBlAHQAaAAgADIAMAAxADAAIABOAGkAZQBsAHMAZQBuAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBJVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDEwL05pZWxzZW4vTmF0IE1ldGggMjAxMCBOaWVsc2VuLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QPS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAxMC9OaWVsc2VuL05hdCBNZXRoIDIwMTAgTmllbHNlbi5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACiAKKAo8CmAKjAqcCtQK8AsUDBQMKAw0DGgMfAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAzE=},
+  bdsk-url-1 = {http://dx.doi.org/10.1038/nmeth.1422}
+}
+Found 1 new identifiers for 'Do lichens domesticate photobionts like farmers domesticate crops? Evidence from a previously unrecognized lineage of filamentous cyanobacteria' by Lucking, R and Lawrey, J. D and Sikaroodi, M and Gillevet, P. M and Chaves, J. L and Sipman, H. J. M and Bungartz, F:
+["DOI:10.3732/ajb.0800258"]
+@article{Lucking:2009p1282,
+  author = {Lucking, R and Lawrey, J. D and Sikaroodi, M and Gillevet, P. M and Chaves, J. L and Sipman, H. J. M and Bungartz, F},
+  date-added = {2009-10-13 10:49:36 -0700},
+  date-modified = {2009-10-13 10:49:36 -0700},
+  doi = {10.3732/ajb.0800258},
+  journal = {American Journal of Botany},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2009/Lucking/American%20Journal%20of%20Botany%202009%20Lucking.pdf},
+  month = {aug},
+  number = {8},
+  pages = {1409–1418},
+  rating = {0},
+  title = {Do lichens domesticate photobionts like farmers domesticate crops? Evidence from a previously unrecognized lineage of filamentous cyanobacteria},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1282},
+  volume = {96},
+  year = {2009},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAiAAAAAAAiAAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAB7OHB9BbWVyaWNhbiBKb3VybmFsIG9mICMxRUNEQTcucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHs2nxvoLGwAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAHTHVja2luZwAAEAAIAADGOs4EAAAAEQAIAADG+m2LAAAAAQAYAB7OHAAaXM8AGi9gAAqa/gAKmucAAIXtAAIAXE1hY2ludG9zaCBIRDpVc2Vyczpqb2huY3VtYmVyczpEb2N1bWVudHM6UGFwZXJzOjIwMDk6THVja2luZzpBbWVyaWNhbiBKb3VybmFsIG9mICMxRUNEQTcucGRmAA4AWAArAEEAbQBlAHIAaQBjAGEAbgAgAEoAbwB1AHIAbgBhAGwAIABvAGYAIABCAG8AdABhAG4AeQAgADIAMAAwADkAIABMAHUAYwBrAGkAbgBnAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBbVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDA5L0x1Y2tpbmcvQW1lcmljYW4gSm91cm5hbCBvZiBCb3RhbnkgMjAwOSBMdWNraW5nLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QTy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwOS9MdWNraW5nL0FtZXJpY2FuIEpvdXJuYWwgb2YgQm90YW55IDIwMDkgTHVja2luZy5wZGbSHB0kJaIlIVxOU0RpY3Rpb25hcnkSAAGGoF8QD05TS2V5ZWRBcmNoaXZlcgAIABEAFgAfACgAMgA1ADoAPABFAEsAUgBdAGUAbABvAHEAcwB2AHgAegB8AIYAkwCYAKACxALGAssC1ALfAuMC8QL4AwEDUwNYA1sDaANtAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA38=},
+  bdsk-url-1 = {http://dx.doi.org/10.3732/ajb.0800258}
+}
+--batch: 3 containing 10
+got 0 results
+--batch: 4 containing 10
+got 10 results
+Found 1 new identifiers for 'Protective roles of bacterioruberin and intracellular KCl in the resistance of Halobacterium salinarium against DNA-damaging agents' by Shahmohammadi, H R and Asgarani, E and Terato, H and Saito, T and Ohyama, Y and Gekko, K and Yamamoto, O and Ide, H:
+["DOI:10.1269/jrr.39.251"]
+@article{shahmohammadi_protective_1998,
+  abstract = {Halobacterium salinarium, a member of the extremely halophilic archaebacteria, contains a C50-carotenoid namely bacterioruberin. We have previously reported the high resistance of this organism against the lethal actions of DNA-damaging agents including ionizing radiation and ultraviolet light (UV). In this study, we have examined whether bacterioruberin and the highly concentrated salts in this bacterium play protective roles against the lethal actions of ionizing radiation, UV, hydrogen peroxide, and mitomycin-C (MMC). The colourless mutant of H. salinarium deficient in bacterioruberin was more sensitive than the red-pigmented wild-type to all tested DNA-damaging agents except MMC. Circular dichroism (CD) spectra of H. salinarium chromosomal DNA at various concentrations of KCl (0-3.5 M) were similar to that of B-DNA, indicating that no conformational changes occurred as a result of high salt concentrations. However, DNA strand-breaks induced by ionizing radiation were significantly reduced by the presence of either bacterioruberin or concentrated KCl, presumably due to scavenging of free radicals. These results suggest that bacterioruberin and intracellular KCl of H. salinarium protect this organism against the lethal effects of oxidative DNA-damaging agents.},
+  author = {Shahmohammadi, H R and Asgarani, E and Terato, H and Saito, T and Ohyama, Y and Gekko, K and Yamamoto, O and Ide, H},
+  date-added = {2009-10-11 23:43:06 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {10196780},
+  journal = {Journal of Radiation Research},
+  keywords = {Halobacterium salinarum, Carotenoids, Potassium Chloride, DNA},
+  note = {PMID: 10196780},
+  number = {4},
+  pages = {251–62},
+  rating = {0},
+  title = {Protective roles of bacterioruberin and intracellular KCl in the resistance of Halobacterium salinarium against DNA-damaging agents},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p807},
+  volume = {39},
+  year = {1998},
+  bdsk-url-1 = {http://dx.doi.org/10196780}
+}
+Found 1 new identifiers for 'Genome size of cyanobacteria' by Herdman, Michael and Janvier, Monique and Rippka, Rosmarie and Stanier, Roger Y:
+["DOI:10.1099/00221287-111-1-73"]
+@article{herdman_genome_1979,
+  annote = {6.6 Mb average for all the Chroococcidiopsis that they mention, converted from Daltons to Mb.},
+  author = {Herdman, Michael and Janvier, Monique and Rippka, Rosmarie and Stanier, Roger Y},
+  date-added = {2009-10-11 23:42:34 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Journal of General Microbiology},
+  pages = {73–85},
+  rating = {0},
+  title = {Genome size of cyanobacteria},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p816},
+  volume = {111},
+  year = {1979}
+}
+Found 1 new identifiers for 'Asteroid and comet impacts: the ultimate environmental catastrophe' by Morrison, David:
+["DOI:10.1098/rsta.2006.1812"]
+@article{morrison_asteroid_2006,
+  abstract = {Cosmic impacts represent the most extreme class of natural hazards, combining a very low probability of occurrence with a capability of killing hundreds of millions and destabilizing global civilization. Fortunately, these disasters are amenable to precise prediction and even (in principle) can be avoided entirely by appropriate application of space technology. However, impacts take place so rarely that they have only recently been recognized as a significant natural hazard. Concerted international action to deal with impacts depends on increased public awareness.},
+  author = {Morrison, David},
+  date-added = {2009-10-11 23:43:04 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {841R277626120882},
+  journal = {Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences},
+  keywords = {Risk Factors, Natural Disasters, Disaster Planning, Minor Planets, Internationality, Meteoroids, Environment, Risk Assessment},
+  note = {PMID: 16844647},
+  number = {1845},
+  pages = {2041–54},
+  rating = {0},
+  title = {Asteroid and comet impacts: the ultimate environmental catastrophe},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p844},
+  volume = {364},
+  year = {2006},
+  bdsk-url-1 = {http://dx.doi.org/841R277626120882%7D}
+}
+Found 1 new identifiers for 'AraC protein: a love-hate relationship' by Schleif, Robert:
+["DOI:10.1002/(ISSN)1521-1878"]
+@article{schleif_arac_2003,
+  abstract = {In the bacterium Escherichia coli, the AraC protein positively and negatively regulates expression of the proteins required for the uptake and catabolism of the sugar L-arabinose. This essay describes how work from my laboratory on this system spanning more than thirty years has aided our understanding of positive regulation, revealed DNA looping (a mechanism that explains many action-at-a-distance phenomena) and, more recently, has uncovered the mechanism by which arabinose shifts AraC from a state where it prefers to bind to two well-separated DNA half-sites and form a DNA loop to a state where it binds to two adjacent half-sites and activates transcription. This work required learning how to assay, purify, and work with a protein possessing highly uncooperative biochemical properties. Present work is focussed on understanding arabinose-responsive mechanism in atomic detail and is also directed towards understanding protein structure and function well enough to be able to engineer the allosteric mechanism seen in AraC onto other proteins.},
+  annote = {PMID: 12596232 AraC review, looping, engineering alosteric function into other proteins, MelAb is a Arac like protein},
+  author = {Schleif, Robert},
+  date-added = {2009-10-11 23:43:03 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {12596232},
+  journal = {BioEssays : news and reviews in molecular, cellular and developmental biology},
+  keywords = {Time Factors, Gene Deletion, Arabinose, Biological, Transcription Factors, Bacterial Proteins, DNA, Light, Protein Binding, AraC Transcription Factor, Tertiary, Models, Repressor Proteins, Escherichia coli Proteins, Models, Genetic, Escherichia coli, Protein Structure},
+  number = {3},
+  pages = {274–82},
+  rating = {0},
+  title = {AraC protein: a love-hate relationship},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1134},
+  volume = {25},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/12596232}
+}
+Found 1 new identifiers for 'A powerful toolkit for synthetic biology: Over 3.8 billion years of evolution' by Rothschild, Lynn J:
+["DOI:10.1002/bies.200900180"]
+@article{Rothschild:2010p3971,
+  author = {Rothschild, Lynn J},
+  date-added = {2010-04-05 14:41:15 -0700},
+  date-modified = {2010-04-05 14:41:15 -0700},
+  doi = {10.1002/bies.200900180},
+  journal = {BioEssays},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2010/Rothschild/BioEssays%202010%20Rothschild.pdf},
+  month = {apr},
+  number = {4},
+  pages = {304–313},
+  rating = {0},
+  title = {A powerful toolkit for synthetic biology: Over 3.8 billion years of evolution},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3971},
+  volume = {32},
+  year = {2010},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAfwAAAAAAfwAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAKed/B1CaW9Fc3NheXMgMjAxMCBSb3Roc2NoaWxkLnBkZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAp52Dx9+mygAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAKUm90aHNjaGlsZAAQAAgAAMY6zgQAAAARAAgAAMfgCToAAAABABgAp538AFNf+QAaL2AACpr+AAqa5wAAhe0AAgBdTWFjaW50b3NoIEhEOlVzZXJzOmpvaG5jdW1iZXJzOkRvY3VtZW50czpQYXBlcnM6MjAxMDpSb3Roc2NoaWxkOkJpb0Vzc2F5cyAyMDEwIFJvdGhzY2hpbGQucGRmAAAOADwAHQBCAGkAbwBFAHMAcwBhAHkAcwAgADIAMAAxADAAIABSAG8AdABoAHMAYwBoAGkAbABkAC4AcABkAGYADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBQVXNlcnMvam9obmN1bWJlcnMvRG9jdW1lbnRzL1BhcGVycy8yMDEwL1JvdGhzY2hpbGQvQmlvRXNzYXlzIDIwMTAgUm90aHNjaGlsZC5wZGYAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QRC4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAxMC9Sb3Roc2NoaWxkL0Jpb0Vzc2F5cyAyMDEwIFJvdGhzY2hpbGQucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAqACogKnArACuwK/As0C1ALdAyQDKQMsAzkDPgAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANQ},
+  bdsk-url-1 = {http://dx.doi.org/10.1002/bies.200900180}
+}
+--batch: 5 containing 10
+got 8 results
+Found 2 new identifiers for 'DNA Repair And Mutagenesis' by Friedberg, Errol C and Walker, Graham C and Siede, Wolfram and Wood, Richard D and Schultz, Roger A and Ellenberger, Tom:
+["ISBN:978-1-4613-6266-1", "DOI:10.1007/978-1-4615-2918-7"]
+@book{friedberg_dna_2005,
+  author = {Friedberg, Errol C and Walker, Graham C and Siede, Wolfram and Wood, Richard D and Schultz, Roger A and Ellenberger, Tom},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  rating = {0},
+  title = {DNA Repair And Mutagenesis},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1258},
+  year = {2005}
+}
+Found 1 new identifiers for 'CyanoBase: the cyanobacteria genome database update 2010' by Nakao, M and Okamoto, S and Kohara, M and Fujishiro, T and Fujisawa, T and Sato, S and Tabata, S and Kaneko, T and Nakamura, Y:
+["DOI:10.1093/nar/gkp915"]
+@article{Nakao:2010p3963,
+  author = {Nakao, M and Okamoto, S and Kohara, M and Fujishiro, T and Fujisawa, T and Sato, S and Tabata, S and Kaneko, T and Nakamura, Y},
+  date-added = {2010-03-24 11:34:44 -0700},
+  date-modified = {2010-03-24 11:34:44 -0700},
+  doi = {10.1093/nar/gkp915},
+  journal = {Nucleic Acids Research},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2010/Nakao/Nucleic%20Acids%20Research%202010%20Nakao.pdf},
+  month = {jan},
+  number = {Database},
+  pages = {D379–D381},
+  rating = {0},
+  title = {CyanoBase: the cyanobacteria genome database update 2010},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3963},
+  volume = {38},
+  year = {2010},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAggAAAAAAggAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAJzMdR9OdWNsZWljIEFjaWRzIFJlc2VhciM5Q0NFOTQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnM6Ux8+pSAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAFTmFrYW8AABAACAAAxjrOBAAAABEACAAAx9ALuAAAAAEAGACczHUAU1/5ABovYAAKmv4ACprnAACF7QACAFpNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDEwOk5ha2FvOk51Y2xlaWMgQWNpZHMgUmVzZWFyIzlDQ0U5NC5wZGYADgBMACUATgB1AGMAbABlAGkAYwAgAEEAYwBpAGQAcwAgAFIAZQBzAGUAYQByAGMAaAAgADIAMAAxADAAIABOAGEAawBhAG8ALgBwAGQAZgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAFNVc2Vycy9qb2huY3VtYmVycy9Eb2N1bWVudHMvUGFwZXJzLzIwMTAvTmFrYW8vTnVjbGVpYyBBY2lkcyBSZXNlYXJjaCAyMDEwIE5ha2FvLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QRy4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAxMC9OYWthby9OdWNsZWljIEFjaWRzIFJlc2VhcmNoIDIwMTAgTmFrYW8ucGRm0hwdJCWiJSFcTlNEaWN0aW9uYXJ5EgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwARQBLAFIAXQBlAGwAbwBxAHMAdgB4AHoAfACGAJMAmACgAqwCrgKzArwCxwLLAtkC4ALpAzMDOAM7A0gDTQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANf},
+  bdsk-url-1 = {http://dx.doi.org/10.1093/nar/gkp915}
+}
+Found 1 new identifiers for 'Cold-loving microbes, plants, and animals-fundamental and applied aspects' by Margesin, R and Neuner, G and Storey, K B:
+["DOI:10.1007/s00114-006-0162-6"]
+@article{margesin_cold-loving_2007-1,
+  abstract = {Microorganisms, plants, and animals have successfully colonized cold environments, which represent the majority of the biosphere on Earth. They have evolved special mechanisms to overcome the life-endangering influence of low temperature and to survive freezing. Cold adaptation includes a complex range of structural and functional adaptations at the level of all cellular constituents, such as membranes, proteins, metabolic activity, and mechanisms to avoid the destructive effect of intracellular ice formation. These strategies offer multiple biotechnological applications of cold-adapted organisms and/or their products in various fields. In this review, we describe the mechanisms of microorganisms, plants, and animals to cope with the cold and the resulting biotechnological perspectives.},
+  author = {Margesin, R and Neuner, G and Storey, K B},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {10.1007/s00114-006-0162-6},
+  journal = {Die Naturwissenschaften},
+  note = {PMID: 17039344},
+  number = {2},
+  pages = {77–99},
+  rating = {0},
+  title = {Cold-loving microbes, plants, and animals-fundamental and applied aspects},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p885},
+  volume = {94},
+  year = {2007},
+  bdsk-url-1 = {http://dx.doi.org/10.1007/s00114-006-0162-6}
+}
+Found 1 new identifiers for 'Physical Chemistry.' by Atkins, Peter and de Paula, Julio:
+["DOI:10.1016/0022-2860(74)80059-1"]
+@book{atkins_physical_2001,
+  author = {Atkins, Peter and de Paula, Julio},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  pages = {1072},
+  rating = {0},
+  title = {Physical Chemistry.},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p830},
+  year = {2001}
+}
+Found 1 new identifiers for 'AraC protein: a love-hate relationship' by Schleif, Robert:
+["DOI:10.1002/(ISSN)1521-1878"]
+@article{schleif_arac_2003-1,
+  abstract = {In the bacterium Escherichia coli, the AraC protein positively and negatively regulates expression of the proteins required for the uptake and catabolism of the sugar L-arabinose. This essay describes how work from my laboratory on this system spanning more than thirty years has aided our understanding of positive regulation, revealed DNA looping (a mechanism that explains many action-at-a-distance phenomena) and, more recently, has uncovered the mechanism by which arabinose shifts AraC from a state where it prefers to bind to two well-separated DNA half-sites and form a DNA loop to a state where it binds to two adjacent half-sites and activates transcription. This work required learning how to assay, purify, and work with a protein possessing highly uncooperative biochemical properties. Present work is focussed on understanding arabinose-responsive mechanism in atomic detail and is also directed towards understanding protein structure and function well enough to be able to engineer the allosteric mechanism seen in AraC onto other proteins.},
+  author = {Schleif, Robert},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {12596232},
+  journal = {BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology},
+  keywords = {AraC Transcription Factor, Protein Structure, Models, Escherichia coli, Genetic, Bacterial Proteins, Models, Gene Deletion, Tertiary, Light, DNA, Transcription Factors, Biological, Time Factors, Repressor Proteins, Escherichia coli Proteins, Protein Binding, Arabinose},
+  note = {PMID: 12596232},
+  number = {3},
+  pages = {274–82},
+  rating = {0},
+  title = {AraC protein: a love-hate relationship},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1001},
+  volume = {25},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/12596232}
+}
+--batch: 6 containing 10
+got 5 results
+Found 1 new identifiers for 'Drosophila dFOXO controls lifespan and regulates insulin signalling in brain and fat body' by Hwangbo, Dae Sung and Gershman, Boris and Gersham, Boris and Tu, Meng-Ping and Palmer, Michael and Tatar, Marc:
+["DOI:10.1038/nature02549"]
+@article{hwangbo_drosophila_2004,
+  abstract = {In Drosophila melanogaster, ageing is slowed when insulin-like signalling is reduced: life expectancy is extended by more than 50% when the insulin-like receptor (InR) or its receptor substrate (chico) are mutated, or when insulin-producing cells are ablated. But we have yet to resolve when insulin affects ageing, or whether insulin signals regulate ageing directly or indirectly through secondary hormones. Caenorhabditis elegans lifespan is also extended when insulin signalling is inhibited in certain tissues, or when repressed in adult worms, and this requires the forkhead transcription factor (FOXO) encoded by daf-16 (ref. 6). The D. melanogaster insulin-like receptor mediates phosphorylation of dFOXO, the equivalent of nematode daf-16 and mammalian FOXO3a. We demonstrate here that dFOXO regulates D. melanogaster ageing when activated in the adult pericerebral fat body. We further show that this limited activation of dFOXO reduces expression of the Drosophila insulin-like peptide dilp-2 synthesized in neurons, and represses endogenous insulin-dependent signalling in peripheral fat body. These findings suggest that autonomous and non-autonomous roles of insulin signalling combine to control ageing.},
+  author = {Hwangbo, Dae Sung and Gershman, Boris and Gersham, Boris and Tu, Meng-Ping and Palmer, Michael and Tatar, Marc},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {15175753},
+  journal = {Nature},
+  keywords = {Insect, RNA, Fat Body, Insulin, Drosophila melanogaster, Aging, Forkhead Transcription Factors, Brain, Stress, Survival Rate, Genes, Signal Transduction, Drosophila Proteins, Insect Hormones, Messenger, Longevity, Transcription Factors, PTEN Phosphohydrolase, Insulin, Phosphoric Monoester Hydrolases, Neurons, Animals, Organ Specificity, Receptor},
+  note = {PMID: 15175753},
+  number = {6991},
+  pages = {562–6},
+  rating = {0},
+  title = {Drosophila dFOXO controls lifespan and regulates insulin signalling in brain and fat body},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1230},
+  volume = {429},
+  year = {2004},
+  bdsk-url-1 = {http://dx.doi.org/15175753}
+}
+Found 1 new identifiers for 'Apo-AraC actively seeks to loop' by Seabold, R R and Schleif, R F:
+["DOI:10.1006/jmbi.1998.1713"]
+@article{seabold_apo-arac_1998,
+  abstract = {In the absence of arabinose and interactions with other proteins, AraC, the activator-repressor that regulates the araBAD operon in Escherichia coli, was found to prefer participating in DNA looping interactions between the two well-separated DNA half-sites, araI1 and araO2 at their normal separation of 211 base-pairs rather than binding to these same two half-sites when they are adjacent to one another. On the addition of arabinose, AraC preferred to bind to the adjacently located half-sites. Inverting the distally located araO2 half-site eliminated the looping preference. These results demonstrate that apo-AraC possesses an intrinsic looping preference that is eliminated by the presence of arabinose. We developed a method for the accurate determination of the relative affinities of AraC for the DNA half-sites araI1, araI2, and araO2 and non-specific DNA. These affinities allowed accurate calculation of basal level and induced levels of expression from pBAD under a wide variety of natural and mutant conditions. The calculations independently predicted the looping preference of apo-AraC.},
+  author = {Seabold, R R and Schleif, R F},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {9600836},
+  journal = {Journal of Molecular Biology},
+  keywords = {Bacterial Proteins, Nucleic Acid, Kinetics, Base Sequence, Regulatory Sequences, Escherichia coli Proteins, Escherichia coli, Site-Directed, Bacterial, Models, Repressor Proteins, Transcription Factors, DNA, Oligodeoxyribonucleotides, beta-Galactosidase, Mathematics, Nucleic Acid Conformation, Recombinant Fusion Proteins, Mutagenesis, AraC Transcription Factor, Arabinose, Operon, Gene Expression Regulation, Models, Apoproteins, Genetic, Molecular, Molecular Sequence Data, Bacterial},
+  note = {PMID: 9600836},
+  number = {3},
+  pages = {529–38},
+  rating = {0},
+  title = {Apo-AraC actively seeks to loop},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1242},
+  volume = {278},
+  year = {1998},
+  bdsk-url-1 = {http://dx.doi.org/9600836}
+}
+Found 1 new identifiers for 'Genome transplantation in bacteria: changing one species to another' by Lartigue, Carole and Glass, John I and Alperovich, Nina and Pieper, Rembert and Parmar, Prashanth P and Hutchison, Clyde A and Smith, Hamilton O and Venter, J Craig:
+["DOI:10.1126/science.1144622"]
+@article{lartigue_genome_2007,
+  abstract = {As a step toward propagation of synthetic genomes, we completely replaced the genome of a bacterial cell with one from another species by transplanting a whole genome as naked DNA. Intact genomic DNA from Mycoplasma mycoides large colony (LC), virtually free of protein, was transplanted into Mycoplasma capricolum cells by polyethylene glycol-mediated transformation. Cells selected for tetracycline resistance, carried by the M. mycoides LC chromosome, contain the complete donor genome and are free of detectable recipient genomic sequences. These cells that result from genome transplantation are phenotypically identical to the M. mycoides LC donor strain as judged by several criteria.},
+  author = {Lartigue, Carole and Glass, John I and Alperovich, Nina and Pieper, Rembert and Parmar, Prashanth P and Hutchison, Clyde A and Smith, Hamilton O and Venter, J Craig},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {1144622},
+  journal = {Science (New York, N.Y.)},
+  keywords = {DNA, Transformation, DNA, Mycoplasma mycoides, Bacterial, Recombination, Polyethylene Glycols, Amino Acid Sequence, Acetate Kinase, Proteome, Bacterial, Bacterial, Phenotype, Genotype, Mycoplasma, Molecular Sequence Data, Genetic, Genome, Sequence Analysis},
+  note = {PMID: 17600181},
+  number = {5838},
+  pages = {632–8},
+  rating = {0},
+  title = {Genome transplantation in bacteria: changing one species to another},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1107},
+  volume = {317},
+  year = {2007},
+  bdsk-url-1 = {http://dx.doi.org/1144622}
+}
+--batch: 7 containing 10
+got 10 results
+Found 1 new identifiers for 'Function, Structure, and Evolution of the RubisCO-Like Proteins and Their RubisCO Homologs' by Tabita, F. R and Hanson, T. E and Li, H and Satagopan, S and Singh, J and Chan, S:
+["DOI:10.1128/MMBR.00015-07"]
+@article{Tabita:2007p3690,
+  author = {Tabita, F. R and Hanson, T. E and Li, H and Satagopan, S and Singh, J and Chan, S},
+  date-added = {2010-01-25 22:22:30 -0800},
+  date-modified = {2010-01-25 22:22:30 -0800},
+  doi = {10.1128/MMBR.00015-07},
+  journal = {Microbiology and Molecular Biology Reviews},
+  local-url = {file://localhost/Users/johncumbers/Documents/Papers/2007/Tabita/Microbiology%20and%20Molecular%20Biology%20Reviews%202007%20Tabita.pdf},
+  month = {dec},
+  number = {4},
+  pages = {576–599},
+  rating = {0},
+  title = {Function, Structure, and Evolution of the RubisCO-Like Proteins and Their RubisCO Homologs},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p3690},
+  volume = {71},
+  year = {2007},
+  bdsk-file-1 = {YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABqAkKFRYXGyIjVSRudWxs0wsMDQ4RFFpOUy5vYmplY3RzV05TLmtleXNWJGNsYXNzog8QgASABqISE4ACgAOAB1lhbGlhc0RhdGFccmVsYXRpdmVQYXRo0hgNGRpXTlMuZGF0YU8RAkoAAAAAAkoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAMY6a5RIKwAAAG1Pdh9NaWNyb2Jpb2xvZ3kgYW5kIE1vbCM2RDRDREQucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbUzdx4PGLAAAAAAAAAAAAAIABQAACSAAAAAAAAAAAAAAAAAAAAAGVGFiaXRhABAACAAAxjrOBAAAABEACAAAx4Q2rAAAAAEAGABtT3YAGkG8ABovYAAKmv4ACprnAACF7QACAFtNYWNpbnRvc2ggSEQ6VXNlcnM6am9obmN1bWJlcnM6RG9jdW1lbnRzOlBhcGVyczoyMDA3OlRhYml0YTpNaWNyb2Jpb2xvZ3kgYW5kIE1vbCM2RDRDREQucGRmAAAOAHYAOgBNAGkAYwByAG8AYgBpAG8AbABvAGcAeQAgAGEAbgBkACAATQBvAGwAZQBjAHUAbABhAHIAIABCAGkAbwBsAG8AZwB5ACAAUgBlAHYAaQBlAHcAcwAgADIAMAAwADcAIABUAGEAYgBpAHQAYQAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAaVVzZXJzL2pvaG5jdW1iZXJzL0RvY3VtZW50cy9QYXBlcnMvMjAwNy9UYWJpdGEvTWljcm9iaW9sb2d5IGFuZCBNb2xlY3VsYXIgQmlvbG9neSBSZXZpZXdzIDIwMDcgVGFiaXRhLnBkZgAAEwABLwAAFQACABL//wAAgAXSHB0eH1gkY2xhc3Nlc1okY2xhc3NuYW1lox8gIV1OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QXS4uLy4uL0RvY3VtZW50cy9QYXBlcnMvMjAwNy9UYWJpdGEvTWljcm9iaW9sb2d5IGFuZCBNb2xlY3VsYXIgQmlvbG9neSBSZXZpZXdzIDIwMDcgVGFiaXRhLnBkZtIcHSQloiUhXE5TRGljdGlvbmFyeRIAAYagXxAPTlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEUASwBSAF0AZQBsAG8AcQBzAHYAeAB6AHwAhgCTAJgAoALuAvAC9QL+AwkDDQMbAyIDKwOLA5ADkwOgA6UAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADtw==},
+  bdsk-url-1 = {http://dx.doi.org/10.1128/MMBR.00015-07}
+}
+Found 1 new identifiers for 'Resistance of Bacillus endospores to extreme terrestrial and extraterrestrial environments' by Nicholson, W L and Munakata, N and Horneck, G and Melosh, H J and Setlow, P:
+["DOI:10.1128/MMBR.64.3.548-572.2000"]
+@article{nicholson_resistance_2000,
+  abstract = {Endospores of Bacillus spp., especially Bacillus subtilis, have served as experimental models for exploring the molecular mechanisms underlying the incredible longevity of spores and their resistance to environmental insults. In this review we summarize the molecular laboratory model of spore resistance mechanisms and attempt to use the model as a basis for exploration of the resistance of spores to environmental extremes both on Earth and during postulated interplanetary transfer through space as a result of natural impact processes.},
+  author = {Nicholson, W L and Munakata, N and Horneck, G and Melosh, H J and Setlow, P},
+  date-added = {2009-10-11 23:43:11 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {10974126},
+  journal = {Microbiology and Molecular Biology Reviews: MMBR},
+  keywords = {Bacterial, Bacillus, Environment, Spores, Extraterrestrial Environment, Space Flight},
+  note = {PMID: 10974126},
+  number = {3},
+  pages = {548–72},
+  rating = {0},
+  title = {Resistance of Bacillus endospores to extreme terrestrial and extraterrestrial environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1187},
+  volume = {64},
+  year = {2000},
+  bdsk-url-1 = {http://dx.doi.org/10974126}
+}
+Found 1 new identifiers for 'The art and design of genetic screens: Escherichia coli' by Shuman, Howard A and Silhavy, Thomas J:
+["DOI:10.1038/nrg1087"]
+@misc{howard_a._shuman_art_2003,
+  annote = {How to screen for your phenotype of choice - E.coli},
+  author = {Shuman, Howard A and Silhavy, Thomas J},
+  date-added = {2009-10-11 23:42:34 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Miscellaneous},
+  rating = {0},
+  title = {The art and design of genetic screens: Escherichia coli},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1104},
+  year = {2003}
+}
+Found 1 new identifiers for 'Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi' by Dadachova, Ekaterina and Bryan, Ruth A and Huang, Xianchun and Moadel, Tiffany and Schweitzer, Andrew D and Aisen, Philip and Nosanchuk, Joshua D and Casadevall, Arturo:
+["DOI:10.1371/journal.pone.0000457"]
+@article{dadachova_ionizing_2007-2,
+  abstract = {BACKGROUND: Melanin pigments are ubiquitous in nature. Melanized microorganisms are often the dominating species in certain extreme environments, such as soils contaminated with radionuclides, suggesting that the presence of melanin is beneficial in their life cycle. We hypothesized that ionizing radiation could change the electronic properties of melanin and might enhance the growth of melanized microorganisms. METHODOLOGY/PRINCIPAL FINDINGS: Ionizing irradiation changed the electron spin resonance (ESR) signal of melanin, consistent with changes in electronic structure. Irradiated melanin manifested a 4-fold increase in its capacity to reduce NADH relative to non-irradiated melanin. HPLC analysis of melanin from fungi grown on different substrates revealed chemical complexity, dependence of melanin composition on the growth substrate and possible influence of melanin composition on its interaction with ionizing radiation. XTT/MTT assays showed increased metabolic activity of melanized C. neoformans cells relative to non-melanized cells, and exposure to ionizing radiation enhanced the electron-transfer properties of melanin in melanized cells. Melanized Wangiella dermatitidis and Cryptococcus neoformans cells exposed to ionizing radiation approximately 500 times higher than background grew significantly faster as indicated by higher CFUs, more dry weight biomass and 3-fold greater incorporation of (14)C-acetate than non-irradiated melanized cells or irradiated albino mutants. In addition, radiation enhanced the growth of melanized Cladosporium sphaerospermum cells under limited nutrients conditions. CONCLUSIONS/SIGNIFICANCE: Exposure of melanin to ionizing radiation, and possibly other forms of electromagnetic radiation, changes its electronic properties. Melanized fungal cells manifested increased growth relative to non-melanized cells after exposure to ionizing radiation, raising intriguing questions about a potential role for melanin in energy capture and utilization.},
+  author = {Dadachova, Ekaterina and Bryan, Ruth A and Huang, Xianchun and Moadel, Tiffany and Schweitzer, Andrew D and Aisen, Philip and Nosanchuk, Joshua D and Casadevall, Arturo},
+  date-added = {2009-10-11 23:43:06 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {10.1371/journal.pone.0000457},
+  journal = {PLoS ONE},
+  note = {PMID: 17520016},
+  number = {5},
+  pages = {e457},
+  rating = {0},
+  title = {Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1078},
+  volume = {2},
+  year = {2007},
+  bdsk-url-1 = {http://dx.doi.org/10.1371/journal.pone.0000457}
+}
+Found 1 new identifiers for 'Latitudinal Differentiation in Copepod Growth: An Adaptation to Temperature' by Lonsdale, Darcy J and Levinton, Jeffrey S:
+["DOI:10.2307/1938002"]
+@article{darcy_j._lonsdale_latitudinal_1985,
+  annote = {We demonstrate the presence of significant differentiation in development rate, adult body length, and stomatic growth rate in the estuarine harpacticoid copepod Scottolana canadensis (Willey) collected from a broad range of latitudes (2743 N) and reared in the laboratory for several generations under the same conditions (15 g salts per 1000 g seawater, and 15, 20, 25, or 28C). The changing pattern of differential growth with increased temperature suggests local adaptation to maximize scope for growth under prevailing temperatures conditions; northernderived individuals grew faster at low but not at high temperatures. See full-text article at JSTOR},
+  author = {Lonsdale, Darcy J and Levinton, Jeffrey S},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Ecology},
+  number = {5},
+  pages = {1397–1407},
+  rating = {0},
+  title = {Latitudinal Differentiation in Copepod Growth: An Adaptation to Temperature},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p999},
+  volume = {66},
+  year = {1985}
+}
+--batch: 8 containing 10
+got 9 results
+Found 1 new identifiers for 'Life on the rocks' by Gorbushina, Anna A:
+["DOI:10.1111/j.1462-2920.2007.01301.x"]
+@article{gorbushina_liferocks_2007,
+  abstract = {Biofilms are interface micro-habitats formed by microbes that differ markedly from those of the ambient environment. The term ’subaerial biofilm’ (SAB) was coined for microbial communities that develop on solid mineral surfaces exposed to the atmosphere. Subaerial biofilms are ubiquitous, self-sufficient, miniature microbial ecosystems that are found on buildings, bare rocks in deserts, mountains, and at all latitudes where direct contact with the atmosphere and solar radiation occurs. Subaerial biofilms on exposed terrestrial surfaces are characterized by patchy growth that is dominated by associations of fungi, algae, cyanobacteria and heterotrophic bacteria. Inherent subaerial settlers include specialized actinobacteria (e.g. Geodermatophilus), cyanobacteria and microcolonial fungi. Individuals within SAB communities avoid sexual reproduction, but cooperate extensively with one another especially to avoid loss of energy and nutrients. Subaerial biofilm metabolic activity centres on retention of water, protecting the cells from fluctuating environmental conditions and solar radiation as well as prolonging their vegetative life. Atmospheric aerosols, gases and propagatory particles serve as sources of nutrients and inoculum for these open communities. Subaerial biofilms induce chemical and physical changes to rock materials, and they penetrate the mineral substrate contributing to rock and mineral decay, which manifests itself as bio-weathering of rock surfaces. Given their characteristic slow and sensitive growth, SAB may also serve as bioindicators of atmospheric and/or climate change.},
+  author = {Gorbushina, Anna A},
+  date-added = {2009-10-11 23:43:04 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {EMI1301},
+  journal = {Environmental Microbiology},
+  keywords = {Fungi, Reproduction, Geologic Sediments, Ecosystem, Bacterial Physiology, Biofilms},
+  note = {PMID: 17564597},
+  number = {7},
+  pages = {1613–31},
+  rating = {0},
+  title = {Life on the rocks},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1202},
+  volume = {9},
+  year = {2007},
+  bdsk-url-1 = {http://dx.doi.org/1301%7D}
+}
+Found 1 new identifiers for 'Drosophila germ-line modulation of insulin signaling and lifespan' by Flatt, Thomas and Min, Kyung-Jin and D’Alterio, Cecilia and Villa-Cuesta, Eugenia and Cumbers, John and Lehmann, Ruth and Jones, D Leanne and Tatar, Marc:
+["DOI:10.1073/pnas.0709128105"]
+@article{flatt_drosophila_2008,
+  abstract = {Ablation of germ-line precursor cells in Caenorhabditis elegans extends lifespan by activating DAF-16, a forkhead transcription factor (FOXO) repressed by insulin/insulin-like growth factor (IGF) signaling (IIS). Signals from the gonad might thus regulate whole-organism aging by modulating IIS. To date, the details of this systemic regulation of aging by the reproductive system are not understood, and it is unknown whether such effects are evolutionarily conserved. Here we report that eliminating germ cells (GCs) in Drosophila melanogaster increases lifespan and modulates insulin signaling. Long-lived germ-line-less flies show increased production of Drosophila insulin-like peptides (dilps) and hypoglycemia but simultaneously exhibit several characteristics of IIS impedance, as indicated by up-regulation of the Drosophila FOXO (dFOXO) target genes 4E-BP and l (2)efl and the insulin/IGF-binding protein IMP-L2. These results suggest that signals from the gonad regulate lifespan and modulate insulin sensitivity in the fly and that the gonadal regulation of aging is evolutionarily conserved.},
+  author = {Flatt, Thomas and Min, Kyung-Jin and D’Alterio, Cecilia and Villa-Cuesta, Eugenia and Cumbers, John and Lehmann, Ruth and Jones, D Leanne and Tatar, Marc},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {0709128105},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  keywords = {Longevity, Gene Expression Regulation, Insect, Drosophila Proteins, Drosophila melanogaster, Testis, Ovary, Germ Cells, Signal Transduction, Animals, Insulin, Genes, Messenger, Female, RNA, Male},
+  note = {PMID: 18434551},
+  number = {17},
+  pages = {6368–73},
+  rating = {0},
+  title = {Drosophila germ-line modulation of insulin signaling and lifespan},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p892},
+  volume = {105},
+  year = {2008},
+  bdsk-url-1 = {http://dx.doi.org/0709128105}
+}
+--batch: 9 containing 10
+got 0 results
+--batch: 10 containing 10
+got 9 results
+Found 1 new identifiers for 'The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments' by Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A:
+["DOI:10.1089/ast.2007.0124"]
+@misc{steven_m._jepsen_potential_2007,
+  annote = {We developed a numerical model to assess the lithoautotrophic habitability of Mars based on metabolic energy, nutrients, water availability, and temperature. Available metabolic energy and nutrient sources were based on a laboratory-produced Mars-analog inorganic chemistry. For this specific reference chemistry, the most efficient lithoautotrophic microorganisms would use Fe2+ as a primary metabolic electron donor and NO3− or gaseous O2 as a terminal electron acceptor. In a closed model system, biomass production was limited by the electron donor Fe2+ and metabolically required P, and typically amounted to ∼800 pg of dry biomass/ml (∼8,500 cells/ml). Continued growth requires propagation of microbes to new fecund environments, delivery of fresh pore fluid, or continued reaction with the host material. Within the shallow cryosphere[–]where oxygen can be accessed by microbes and microbes can be accessed by exploration[–]lithoautotrophs can function within as little as three monolayers of interfacial water...},
+  author = {Jepsen, Steven M and Priscu, John C and Grimm, Robert E and Bullock, Mark A},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Miscellaneous},
+  keywords = {Iron, Thin film, Nitrogen, Free energy, Mars, Life, Phosphorus, Interfacial water},
+  rating = {0},
+  title = {The Potential for Lithoautotrophic Life on Mars: Application to Shallow Interfacial Water Environments},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p946},
+  year = {2007}
+}
+Found 2 new identifiers for 'Psychrophiles: from Biodiversity to Biotechnolgy' by Margesin, Rosa and Schinner, Franz and Marx, Jean-Claude and Gerday, Charles:
+["ISBN:978-3-540-74334-7", "DOI:10.1007/978-3-540-74335-4"]
+@book{margesin_psychrophiles:biodiversity_2007,
+  author = {Margesin, Rosa and Schinner, Franz and Marx, Jean-Claude and Gerday, Charles},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  pages = {462},
+  rating = {0},
+  title = {Psychrophiles: from Biodiversity to Biotechnolgy},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p851},
+  year = {2007}
+}
+--batch: 11 containing 10
+got 9 results
+Found 1 new identifiers for 'On the origin of prokaryotic species' by Doolittle, W Ford and Zhaxybayeva, Olga:
+["DOI:10.1101/gr.086645.108"]
+@article{doolittle_origin_2009,
+  author = {Doolittle, W Ford and Zhaxybayeva, Olga},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Genome Research},
+  pages = {p744–756},
+  rating = {0},
+  title = {On the origin of prokaryotic species},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p939},
+  volume = {19},
+  year = {2009}
+}
+Found 1 new identifiers for 'Subfreezing growth of the sea ice bacterium "Psychromonas ingrahamii"' by Breezee, J and Cady, N and Staley, J T:
+["DOI:10.1007/s00248-003-1040-9"]
+@article{breezee_subfreezing_2004,
+  abstract = {"Psychromonas ingrahamii," named for John L. Ingraham, was isolated from sea ice from off Point Barrow, Alaska. This large rod-shaped bacterium belongs to the gamma-Proteobacteria. "P. ingrahamii" is a psychrophilic, heterotrophic bacterium that is gas vacuolate and nonmotile. "P. ingrahamii" is notable in that it grows at a temperature of -12 degrees C with a generation time of 240 h. This is the lowest growth temperature of any organism authenticated by a growth curve.},
+  author = {Breezee, J and Cady, N and Staley, J T},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-12-09 16:55:55 -0800},
+  doi = {14994177},
+  journal = {Microb Ecol},
+  keywords = {Molecular Sequence Data, Ice, Chromatography, High Pressure Liquid, Genetic, Alaska, RNA, Sequence Analysis, DNA, Cluster Analysis, Ribosomal, Phenotype, Time Factors, Phylogeny, 16S, Models, Seawater, Gammaproteobacteria, Base Sequence},
+  note = {PMID: 14994177},
+  number = {3},
+  pages = {300–4},
+  rating = {0},
+  title = {Subfreezing growth of the sea ice bacterium "Psychromonas ingrahamii"},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p869},
+  volume = {47},
+  year = {2004},
+  bdsk-url-1 = {http://dx.doi.org/14994177}
+}
+--batch: 12 containing 10
+got 0 results
+--batch: 13 containing 10
+got 10 results
+Found 1 new identifiers for 'Subfreezing activity of microorganisms and the potential habitability of Mars’ polar regions' by Jakosky, Bruce M and Nealson, Kenneth H and Bakermans, Corien and Ley, Ruth E and Mellon, Michael T:
+["DOI:10.1089/153110703769016433"]
+@article{jakosky_subfreezing_2003,
+  abstract = {The availability of water-ice at the surface in the Mars polar cap and within the top meter of the high-latitude regolith raises the question of whether liquid water can exist there under some circumstances and possibly support the existence of biota. We examine the minimum temperatures at which liquid water can exist at ice grain-dust grain and ice grain-ice grain contacts, the minimum subfreezing temperatures at which terrestrial organisms can grow or multiply, and the maximum temperatures that can occur in martian high-latitude and polar regions, to see if there is overlap. Liquid water can exist at grain contacts above about -20 degrees C. Measurements of growth in organisms isolated from Siberian permafrost indicate growth at -10 degrees C and metabolism at -20 degrees C. Mars polar and high-latitude temperatures rise above -20 degrees C at obliquities greater than \textasciitilde40 degrees, and under some conditions rise above 0 degrees C. Thus, the environment in the Mars polar regions has overlapped habitable conditions within relatively recent epochs, and Mars appears to be on the edge of being habitable at present. The easy accessibility of the polar surface layer relative to the deep subsurface make these viable locations to search for evidence of life.},
+  author = {Jakosky, Bruce M and Nealson, Kenneth H and Bakermans, Corien and Ley, Ruth E and Mellon, Michael T},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {14577883},
+  journal = {Astrobiology},
+  keywords = {Water Microbiology, Siberia, Mars, Environment, Extraterrestrial Environment, Bacteria, Ice},
+  note = {PMID: 14577883},
+  number = {2},
+  pages = {343–50},
+  rating = {0},
+  title = {Subfreezing activity of microorganisms and the potential habitability of Mars’ polar regions},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p823},
+  volume = {3},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/14577883}
+}
+Found 1 new identifiers for 'The endocrine regulation of aging by insulin-like signals' by Tatar, Marc and Bartke, Andrzej and Antebi, Adam:
+["DOI:10.1126/science.1081447"]
+@article{tatar_endocrine_2003,
+  abstract = {Reduced signaling of insulin-like peptides increases the life-span of nematodes, flies, and rodents. In the nematode and the fly, secondary hormones downstream of insulin-like signaling appear to regulate aging. In mammals, the order in which the hormones act is unresolved because insulin, insulin-like growth factor-1, growth hormone, and thyroid hormones are interdependent. In all species examined to date, endocrine manipulations can slow aging without concurrent costs in reproduction, but with inevitable increases in stress resistance. Despite the similarities among mammals and invertebrates in insulin-like peptides and their signal cascade, more research is needed to determine whether these signals control aging in the same way in all the species by the same mechanism.},
+  author = {Tatar, Marc and Bartke, Andrzej and Antebi, Adam},
+  date-added = {2009-10-11 23:43:03 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {12610294},
+  journal = {Science (New York, N.Y.)},
+  keywords = {Animals, Caenorhabditis elegans, Somatomedins, Caenorhabditis elegans Proteins, Drosophila melanogaster, Endocrine System, Humans, Signal Transduction, Longevity, Insect Hormones, Transcription Factors, Insulin, Aging, Gene Expression Regulation, Caloric Restriction, Mice, Growth Hormone},
+  note = {PMID: 12610294},
+  number = {5611},
+  pages = {1346–51},
+  rating = {0},
+  title = {The endocrine regulation of aging by insulin-like signals},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p923},
+  volume = {299},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/12610294}
+}
+Found 1 new identifiers for 'Phylogenetic structure of the prokaryotic domain: the primary kingdoms' by Woese, C R and Fox, G E:
+["DOI:10.1073/pnas.74.11.5088"]
+@article{woese_phylogenetic_1977,
+  abstract = {A phylogenetic analysis based upon ribosomal RNA sequence characterization reveals that living systems represent one of three aboriginal lines of descent: (i) the eubacteria, comprising all typical bacteria; (ii) the archaebacteria, containing methanogenic bacteria; and (iii) the urkaryotes, now represented in the cytoplasmic component of eukaryotic cells.},
+  author = {Woese, C R and Fox, G E},
+  date-added = {2009-10-11 23:42:52 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {270744},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  keywords = {Cells, Eukaryotic Cells, Prokaryotic Cells, Phenotype, Bacteria, Phylogeny},
+  note = {PMID: 270744},
+  number = {11},
+  pages = {5088–90},
+  rating = {0},
+  title = {Phylogenetic structure of the prokaryotic domain: the primary kingdoms},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p805},
+  volume = {74},
+  year = {1977},
+  bdsk-url-1 = {http://dx.doi.org/270744}
+}
+Found 2 new identifiers for 'Biomining' by Rawlings, Douglas E and Johnson, D Barrie:
+["ISBN:978-3-540-34909-9", "DOI:10.1007/978-3-540-34911-2"]
+@book{rawlings_biomining_2006,
+  author = {Rawlings, Douglas E and Johnson, D Barrie},
+  date-added = {2009-10-11 23:43:04 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Book},
+  pages = {333},
+  rating = {0},
+  title = {Biomining},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1154},
+  year = {2006}
+}
+Found 1 new identifiers for 'Population Genetics: A Concise Guide' by Gillespie, John H:
+["DOI:10.2307/2533705"]
+@book{gillespie_population_2004,
+  author = {Gillespie, John H},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  journal = {Book},
+  keywords = {dans},
+  rating = {0},
+  title = {Population Genetics: A Concise Guide},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p843},
+  year = {2004}
+}
+--batch: 14 containing 10
+got 0 results
+--batch: 15 containing 10
+got 9 results
+Found 1 new identifiers for 'Directed evolution of a genetic circuit' by Yokobayashi, Yohei and Weiss, Ron and Arnold, Frances H:
+["DOI:10.1073/pnas.252535999"]
+@article{yokobayashi_directed_2002,
+  abstract = {The construction of artificial networks of transcriptional control elements in living cells represents a new frontier for biological engineering. However, biological circuit engineers will have to confront their inability to predict the precise behavior of even the most simple synthetic networks, a serious shortcoming and challenge for the design and construction of more sophisticated genetic circuitry in the future. We propose a combined rational and evolutionary design strategy for constructing genetic regulatory circuits, an approach that allows the engineer to fine-tune the biochemical parameters of the networks experimentally in vivo. By applying directed evolution to genes comprising a simple genetic circuit, we demonstrate that a nonfunctional circuit containing improperly matched components can evolve rapidly into a functional one. In the process, we generated a library of genetic devices with a range of behaviors that can be used to construct more complex circuits.},
+  author = {Yokobayashi, Yohei and Weiss, Ron and Arnold, Frances H},
+  date-added = {2009-10-11 23:42:34 -0700},
+  date-modified = {2009-10-11 23:43:11 -0700},
+  doi = {12451174},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  keywords = {Molecular, Mutagenesis, DNA, Evolution, Repressor Proteins, Genetic Engineering, Plasmids, Gene Expression Regulation},
+  note = {PMID: 12451174},
+  number = {26},
+  pages = {16587–91},
+  rating = {0},
+  title = {Directed evolution of a genetic circuit},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1181},
+  volume = {99},
+  year = {2002},
+  bdsk-url-1 = {http://dx.doi.org/12451174}
+}
+Found 1 new identifiers for 'Insulin regulation of heart function in aging fruit flies' by Wessells, Robert J and Fitzgerald, Erin and Cypser, James R and Tatar, Marc and Bodmer, Rolf:
+["DOI:10.1038/ng1476"]
+@article{wessells_insulin_2004,
+  abstract = {Insulin-IGF receptor (InR) signaling has a conserved role in regulating lifespan, but little is known about the genetic control of declining organ function. Here, we describe progressive changes of heart function in aging fruit flies: from one to seven weeks of a fly’s age, the resting heart rate decreases and the rate of stress-induced heart failure increases. These age-related changes are minimized or absent in long-lived flies when systemic levels of insulin-like peptides are reduced and by mutations of the only receptor, InR, or its substrate, chico. Moreover, interfering with InR signaling exclusively in the heart, by overexpressing the phosphatase dPTEN or the forkhead transcription factor dFOXO, prevents the decline in cardiac performance with age. Thus, insulin-IGF signaling influences age-dependent organ physiology and senescence directly and autonomously, in addition to its systemic effect on lifespan. The aging fly heart is a model for studying the genetics of age-sensitive organ-specific pathology.},
+  author = {Wessells, Robert J and Fitzgerald, Erin and Cypser, James R and Tatar, Marc and Bodmer, Rolf},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {ng1476},
+  journal = {Nature Genetics},
+  keywords = {Animals, Sex Factors, Cloning, Forkhead Transcription Factors, Heart, Crosses, Drosophila melanogaster, Genetic, Female, Intracellular Signaling Peptides and Proteins, Male, Insulin, Receptor, Molecular, Drosophila Proteins, PTEN Phosphohydrolase, Heart Rate, Transcription Factors, Phosphoric Monoester Hydrolases, Aging, Signal Transduction, Receptor Protein-Tyrosine Kinases, Mutation},
+  note = {PMID: 15565107},
+  number = {12},
+  pages = {1275–81},
+  rating = {0},
+  title = {Insulin regulation of heart function in aging fruit flies},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1065},
+  volume = {36},
+  year = {2004},
+  bdsk-url-1 = {http://dx.doi.org/1476}
+}
+Found 1 new identifiers for 'MELISSA: a loop of interconnected bioreactors to develop life support in space' by Gòdia, F and Albiol, J and Montesinos, J L and Pérez, J and Creus, N and Cabello, F and Mengual, X and Montras, A and Lasseur, Ch:
+["DOI:10.1016/S0168-1656(02)00222-5"]
+@article{gdia_melissa:loop_2002-1,
+  abstract = {The development of a loop of interconnected continuous bioreactors, aimed to provide life support in space, is reported. The complete loop concept consists of four bioreactors and one higher plant compartment. For its realization the continuous and controlled operation of the bioreactors is characterized, up to the pilot scale level, first for each individual reactor, second for the interconnected reactor operation. The results obtained with the two more advanced bioreactors in the Micro Ecological Life Support System Alternative (MELISSA) loop are described more specifically. These reactors consist of a packed-bed reactor working with an immobilized co-culture of Nitrosomonas and Nitrobacter cells, and an external loop gas-lift photobioreactor for the culture of the cyanobacteria Spirulina platensis. Their individual operation for long duration runs has been achieved and characterized, and their interconnected operation at pilot scale is reported.},
+  author = {Gòdia, F and Albiol, J and Montesinos, J L and Pérez, J and Creus, N and Cabello, F and Mengual, X and Montras, A and Lasseur, Ch},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {12385718},
+  journal = {Journal of Biotechnology},
+  keywords = {Ecological Systems, Closed, Sensitivity and Specificity, Pilot Projects, Conservation of Natural Resources, Coculture Techniques, Feedback, Environmental Microbiology, Space Simulation, Bioreactors, Life Support Systems, Reproducibility of Results, Humans, Ecosystem, Equipment Failure Analysis, Equipment Design, Waste Management, Space Flight},
+  note = {PMID: 12385718},
+  number = {3},
+  pages = {319–30},
+  rating = {0},
+  title = {MELISSA: a loop of interconnected bioreactors to develop life support in space},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p906},
+  volume = {99},
+  year = {2002},
+  bdsk-url-1 = {http://dx.doi.org/12385718}
+}
+--batch: 16 containing 10
+got 0 results
+--batch: 17 containing 10
+got 0 results
+--batch: 18 containing 10
+got 9 results
+Found 1 new identifiers for 'Phylogenetic diversity of Synechococcus in the Chesapeake Bay revealed by ribulose-1,5-bisphosphate carboxylase-oxygenase (RubisCO) large subunit gene (rbcL) sequences' by Feng, Chen and Kui, Wang and Jinjun, Kan and Bachoon, Dave S and Jingrang, Lu and Lau, Stanley and Campbell, Lisa:
+["DOI:10.3354/ame036153"]
+@article{feng_phylogenetic_2004,
+  abstract = {Résumé / Abstract In order to understand how Synechococcus in the estuarine environment (Chesapeake Bay) are phylogenetically related to other known marine Synechococcus, partial rbcL gene sequences from 25 strains of Synechococcus spp. isolated from estuarine, coastal and oceanic waters were sequenced. The rbcL gene phylogeny showed that Chesapeake Bay Synechococcus isolates together with other marine Synechococcus spp. formed a monophyletic group which belongs to the form IA RuBisCO. All the Chesapeake Bay Synechococcus were able to grow in a wide range of salinity (0 to 30‰), and most of them belong to the Marine Cluster B (MC-B). Interestingly, several phycoerythrin (PE)-containing Synechococcus isolated from the bay were clustered in the MC-B group, which had previously only contained the non-PE Synechococcus. A set of PCR primers was developed to specifically amplify the rbcL gene from natural marine Synechococcus populations. After screening 232 clones randomly selected from 5 clone libraries (built on 5 estuarine samples respectively), at least 7 different rbcL genotypes or the operational taxonomic units (OTUs) were identified. Despite the great genetic diversity among the OTU sequences, they were all clustered with 13 Chesapeake Bay isolates. The distribution frequency of these OTUs varied dramatically from the upper to lower bay. Our results suggest that the Chesapeake estuary provides an ideal environment for the MC-B type Synechococcus populations to thrive. Marine Synechococcus appear to adapt well to various ecological niches, and a clear boundary solely based on phenotypic features may not exist when more and more novel ecotypes and genotypes are unveiled with molecular tools.},
+  author = {Feng, Chen and Kui, Wang and Jinjun, Kan and Bachoon, Dave S and Jingrang, Lu and Lau, Stanley and Campbell, Lisa},
+  date-added = {2009-10-11 23:42:35 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  journal = {Aquatic microbial ecology},
+  number = {2},
+  pages = {153–164},
+  rating = {0},
+  title = {Phylogenetic diversity of Synechococcus in the Chesapeake Bay revealed by ribulose-1,5-bisphosphate carboxylase-oxygenase (RubisCO) large subunit gene (rbcL) sequences},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1209},
+  volume = {36},
+  year = {2004}
+}
+Found 1 new identifiers for 'Cold-adapted enzymes' by Siddiqui, Khawar Sohail and Cavicchioli, Ricardo:
+["DOI:10.1146/annurev.biochem.75.103004.142723"]
+@article{siddiqui_cold-adapted_2006,
+  abstract = {By far the largest proportion of the Earth’s biosphere is comprised of organisms that thrive in cold environments (psychrophiles). Their ability to proliferate in the cold is predicated on a capacity to synthesize cold-adapted enzymes. These enzymes have evolved a range of structural features that confer a high level of flexibility compared to thermostable homologs. High flexibility, particularly around the active site, is translated into low-activation enthalpy, low-substrate affinity, and high specific activity at low temperatures. High flexibility is also accompanied by a trade-off in stability, resulting in heat lability and, in the few cases studied, cold lability. This review addresses the structure, function, and stability of cold-adapted enzymes, highlighting the challenges for immediate and future consideration. Because of the unique properties of cold-adapted enzymes, they are not only an important focus in extremophile biology, but also represent a valuable model for fundamental research into protein folding and catalysis.},
+  author = {Siddiqui, Khawar Sohail and Cavicchioli, Ricardo},
+  date-added = {2009-10-11 23:43:05 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {10.1146/annurev.biochem.75.103004.142723},
+  journal = {Annual Review of Biochemistry},
+  keywords = {Enzymes, Enzyme Stability, Structure-Activity Relationship, Biological, Thermodynamics, Cold, Protein Conformation, Mathematics, Adaptation, Surface Properties, Protein Folding, Electrostatics, Animals},
+  note = {PMID: 16756497},
+  pages = {403–33},
+  rating = {0},
+  title = {Cold-adapted enzymes},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1164},
+  volume = {75},
+  year = {2006},
+  bdsk-url-1 = {http://dx.doi.org/10.1146/annurev.biochem.75.103004.142723}
+}
+Found 1 new identifiers for 'Solar UV irradiation conditions on the surface of Mars' by Rontó, Györgyi and Bérces, Attila and Lammer, Helmut and Cockell, Charles S and Molina-Cuberos, Gregorio J and Patel, Manish R and Selsis, Franck:
+["DOI:10.1562/0031-8655(2003)0770034SUICOT2.0.CO2"]
+@article{ront_solar_2003,
+  abstract = {The UV radiation environment on planetary surfaces and within atmospheres is of importance in a wide range of scientific disciplines. Solar UV radiation is a driving force of chemical and organic evolution and serves also as a constraint in biological evolution. In this work we modeled the transmission of present and early solar UV radiation from 200 to 400 nm through the present-day and early (3.5 Gyr ago) Martian atmosphere for a variety of possible cases, including dust loading, observed and modeled O3 concentrations. The UV stress on microorganisms and/or molecules essential for life was estimated by using DNA damaging effects (specifically bacteriophage T7 killing and uracil dimerization) for various irradiation conditions on the present and ancient Martian surface. Our study suggests that the UV irradiance on the early Martian surface 3.5 Gyr ago may have been comparable with that of present-day Earth, and though the current Martian UV environment is still quite severe from a biological viewpoint, we show that substantial protection can still be afforded under dust and ice.},
+  author = {Rontó, Györgyi and Bérces, Attila and Lammer, Helmut and Cockell, Charles S and Molina-Cuberos, Gregorio J and Patel, Manish R and Selsis, Franck},
+  date-added = {2009-10-11 23:42:53 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {12856880},
+  journal = {Photochemistry and Photobiology},
+  keywords = {Bacteriophage T7, Earth (Planet), Extraterrestrial Environment, Dust, Biogenesis, Radiation, Dose-Response Relationship, Ice, Ultraviolet Rays, Mars, Uracil},
+  note = {PMID: 12856880 UV on Mars},
+  number = {1},
+  pages = {34–40},
+  rating = {0},
+  title = {Solar UV irradiation conditions on the surface of Mars},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1093},
+  volume = {77},
+  year = {2003},
+  bdsk-url-1 = {http://dx.doi.org/12856880}
+}
+--batch: 19 containing 7
+got 7 results
+Found 1 new identifiers for 'Liquid nitrogen freezers: a potential source of microbial contamination of hematopoietic stem cell components' by Fountain, D and Ralston, M and Higgins, N and Gorlin, J B and Uhl, L and Wheeler, C and Antin, J H and Churchill, W H and Benjamin, R J:
+["DOI:10.1046/j.1537-2995.1997.37697335152.x"]
+@article{fountain_liquid_1997,
+  abstract = {BACKGROUND: The recent report of hepatitis B transmission between hematopoietic progenitor and putative stem cell (HPC) components stored in liquid nitrogen led to the questioning of whether evidence existed for similar contamination by bacterial or fungal elements. STUDY DESIGN AND METHODS: Microbial contamination rates were reviewed for 704 HPC components from 255 patients over an 18-month period. Five liquid nitrogen freezers were surveyed for microbial contamination. The literature was reviewed to ascertain the published experience of other laboratories with HPC component contamination first documented on thawing. RESULTS: Seven (1.2%) of 583 thawed components were found to be contaminated with a variety of environmental or waterborne organisms, despite a meticulous protocol to prevent contamination during thawing. All of these components had been sterile on cryopreservation. Literature review revealed a similar incidence of post-thaw contamination from other centers. Microbial survey of liquid nitrogen freezers revealed low-level contamination in four of five. The organisms represented were similar to those cultured from thawed HPC components. One freezer was heavily contaminated by Aspergillus species. CONCLUSION: Liquid nitrogen freezers are not sterile, and both the liquid and vapor phases are potential sources of microbial contamination of HPC components. While low-level contamination by environmental organisms may be common, the occurrence of heavy contamination by potential pathogens such as Aspergillus species suggests that monitoring of liquid nitrogen sterility may be indicated. Strategies to assess and prevent microbial transmission from liquid nitrogen to HPC components need further development.},
+  author = {Fountain, D and Ralston, M and Higgins, N and Gorlin, J B and Uhl, L and Wheeler, C and Antin, J H and Churchill, W H and Benjamin, R J},
+  date-added = {2009-10-11 23:42:54 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {9191818},
+  journal = {Transfusion},
+  keywords = {Drug Contamination, Blood Transfusion, Humans, Hematopoietic Stem Cells, Nitrogen, Sterilization, Acinetobacter Infections, Bone Marrow Cells, Cryopreservation},
+  note = {PMID: 9191818},
+  number = {6},
+  pages = {585–91},
+  rating = {0},
+  title = {Liquid nitrogen freezers: a potential source of microbial contamination of hematopoietic stem cell components},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1095},
+  volume = {37},
+  year = {1997},
+  bdsk-url-1 = {http://dx.doi.org/9191818}
+}
+Found 1 new identifiers for 'A photobioreactor system for precision cultivation of photoautotrophic microorganisms and for high-content analysis of suspension dynamics' by Nedbal, Ladislav and Trtı́lek, Martin and Cervený, Jan and Komárek, Ondřej and Pakrasi, Himadri B:
+["DOI:10.1002/(ISSN)1097-0290"]
+@article{nedbal_photobioreactor_2008,
+  abstract = {Small-scale photobioreactors for cultivation of photoautotrophic microbes are required for precise characterization of the growth parameters of wild-type and engineered strains of these organisms, for their screening, and for optimization of culture conditions. Here, we describe the design and use of a flat-cuvette photobioreactor that allows accurate control of culture irradiance, temperature, pH, and gas composition combined with real-time monitoring by a built-in fluorometer and densitometer. The high-power LED light source generates precise irradiance levels that are programmed by user-designed protocols. The irradiance, temperature, and gas composition may be static or dynamically modulated, while optical density and pH may be stabilized in turbidostat and pH-stat modes, respectively. We demonstrate that the instrument is able to detect minute variations of growth caused, for example, by sudden dilution or by circadian rhythms. The sensitivity of the instrument is sufficient to monitor suspension optical density as low as 10(-2). This newly designed photobioreactor can significantly contribute to the study and use of photoautotrophic microbes in systems biology and biotechnology. Biotechnol. Bioeng. (c) 2008 Wiley Periodicals, Inc.},
+  author = {Nedbal, Ladislav and Trtı́lek, Martin and Cervený, Jan and Komárek, Ondřej and Pakrasi, Himadri B},
+  date-added = {2009-10-11 23:43:11 -0700},
+  date-modified = {2009-10-11 23:43:12 -0700},
+  doi = {10.1002/bit.21833},
+  journal = {Biotechnology and bioengineering},
+  note = {PMID: 18383143},
+  rating = {0},
+  title = {A photobioreactor system for precision cultivation of photoautotrophic microorganisms and for high-content analysis of suspension dynamics},
+  uri = {papers://7F27BFED-2E86-4192-8AE5-56D3B7473CF6/Paper/p1232},
+  year = {2008},
+  bdsk-url-1 = {http://dx.doi.org/10.1002/bit.21833}
+}
